@@ -1,0 +1,1402 @@
+"U3C_DATE","U3C_NAME","U3C_PURPOSE","U3C_AMOUNT"
+15-3-2009 0:00:00,"PALAK","Vaccination",1200
+16-3-2009 0:00:00,"THINKEY YOGDEN","Vaccination",1500
+21-3-2009 0:00:00,"B/O LIASA","Vaccination",1300
+1-4-2009 0:00:00,"HARSHIT","Vaccination",1500
+13-4-2009 0:00:00,"RITIK","Consultation/Vaccination",1800
+16-4-2009 0:00:00,"MILAN","Consultation/Vaccination",400
+20-4-2009 0:00:00,"UJJWAL","Vaccination",1500
+20-4-2009 0:00:00,"HARSHIT","Consultation/Vaccination",600
+20-4-2009 0:00:00,"ARNAV","Consultation/Vaccination",600
+22-4-2009 0:00:00,"TENZING ","Consultation/Vaccination",1200
+25-4-2009 0:00:00,"KSHITIZ","Consultation/Vaccination",400
+29-4-2009 0:00:00,"B/ SITU","Consultation/Vaccination",2300
+5-5-2009 0:00:00,"DIYA","Consultation",300
+11-5-2009 0:00:00,"SOUMYA","Consultation/Vaccination",1100
+12-5-2009 0:00:00,"AKSHAT","Vaccination",1500
+16-5-2009 0:00:00,"ARJUN","Consultation/Vaccination",600
+16-5-2009 0:00:00,"ADIT","Consultation/Vaccination",2300
+16-5-2009 0:00:00,"DHRUV","Consultation/Vaccination",1100
+25-5-2009 0:00:00,"JAHNVI","Consultation/Vaccination",1100
+27-5-2009 0:00:00,"MANAM","Vaccination",1800
+17-6-2009 0:00:00,"VANISH","Vaccination",2100
+17-6-2009 0:00:00,"B/O MEENAKSHI","Consultation",300
+6-7-2009 0:00:00,"DRISHTI","Vaccination",1500
+6-7-2009 0:00:00,"BITTOO","Consultation/Vaccination",1100
+8-7-2009 0:00:00,"DUSHYANT","Consultation/Vaccination",800
+8-7-2009 0:00:00,"DUSHYANT","Consultation/Vaccination",1000
+20-7-2009 0:00:00,"CHIRAG","Vaccination",1500
+23-7-2009 0:00:00,"SAANVI","Consultation/Vaccination",2000
+8-8-2009 0:00:00,"SNEHA","Consultation/Vaccination",750
+28-7-2009 0:00:00,"YESHI","Consultation/Vaccination",2300
+8-8-2009 0:00:00,"SHARDA","Consultation/Vaccination",300
+10-8-2009 0:00:00,"SURYANSH","Vaccination",1000
+10-8-2009 0:00:00,"LAKSHEY","Vaccination",1400
+29-8-2009 0:00:00,"ASHMEET","Consultation/Vaccination",1000
+21-9-2009 0:00:00,"SHARADHA","Vaccination",1500
+21-9-2009 0:00:00,"PENA","Vaccination",1500
+21-9-2009 0:00:00,"DIKI","Vaccination",1500
+26-9-2009 0:00:00,"DRISHTI","Consultation/Vaccination",1300
+30-9-2009 0:00:00,"AARAV","Consultation/Vaccination",800
+1-10-2009 0:00:00,"AARNA","Consultation/Vaccination",1200
+30-9-2009 0:00:00,"KUNSANG","Consultation/Vaccination",1200
+2-10-2009 0:00:00,"GUL","Consultation/Vaccination",600
+22-8-2009 0:00:00,"PEMA","Consultation/Vaccination",1500
+22-8-2009 0:00:00,"DIYU","Consultation/Vaccination",1500
+22-8-2009 0:00:00,"kARAN","VACCINATION",1500
+26-10-2009 0:00:00,"TENZING","Vaccination",1000
+2-11-2009 0:00:00,"VANISH","Consultation/Vaccination",1200
+11-11-2009 0:00:00,"GUNJAN  NANGLOI","Consultation/Vaccination",250
+9-5-2009 0:00:00,"DHRUV","Vaccination",1000
+14-11-2009 0:00:00,"DHRUV","Vaccination",900
+16-11-2009 0:00:00,"AASHI","Consultation/Vaccination",1600
+28-11-2009 0:00:00,"THINLEY","Consultation/Vaccination",1200
+28-11-2009 0:00:00,"TENZING","Consultation/Vaccination",500
+1-12-2009 0:00:00,"MR.ARORA","Consultation/Vaccination",800
+1-12-2009 0:00:00,"MR.ARORA","Consultation/Vaccination",800
+26-12-2009 0:00:00,"KHUSHI","Vaccination",900
+26-12-2009 0:00:00,"KESAR","Vaccination",100
+3-1-2010 0:00:00,"ANUJA","Vaccination",2800
+11-1-2010 0:00:00,"PRIYANSHI","Consultation",300
+16-1-2010 0:00:00,"ATHAR","Consultation",350
+16-1-2010 0:00:00,"HARSHIT","Consultation/Vaccination",1100
+19-1-2010 0:00:00,"TULJA","Consultation/Vaccination",1500
+21-1-2010 0:00:00,"B/OBHAGYAWANTI TIWAR","Consultation/Vaccination",450
+14-7-2009 0:00:00,"RUPESH","Consultation/Vaccination",900
+23-1-2010 0:00:00,"NEHA","Vaccination",3000
+23-1-2010 0:00:00,"DAKSH","Consultation/Vaccination",350
+2-2-2010 0:00:00,"VIDHI","Consultation/Vaccination",1900
+6-2-2010 0:00:00,"YESHI DOLMA","Consultation/Vaccination",400
+8-2-2010 0:00:00,"CHIRAG","Consultation/Vaccination",300
+6-3-2010 0:00:00,"AALIA","Vaccination",2000
+17-3-2010 0:00:00,"ARNAV","Consultation",350
+19-3-2010 0:00:00,"ANUJA","Vaccination",2800
+3-4-2010 0:00:00,"JYOTI  ARORA","Vaccination",2800
+2-4-2010 0:00:00,"DRISHTI","Consultation/Vaccination",1100
+18-3-2010 0:00:00,"URIV","Consultation/Vaccination",1800
+12-3-2010 0:00:00,"AISHWARYA","Vaccination",3100
+12-4-2010 0:00:00,"SHRADHA","Vaccination",1000
+14-4-2010 0:00:00,"LAKSHAY","Vaccination",1000
+17-4-2010 0:00:00,"RICHA","Consultation/Vaccination",3000
+27-4-2010 0:00:00,"ANIMESH","Consultation/Vaccination",2400
+24-4-2010 0:00:00,"SHRISHTI","Consultation",400
+24-4-2010 0:00:00,"DEV","Consultation/Vaccination",400
+28-4-2010 0:00:00,"DEV PRATAP SINGH","Consultation/Vaccination",1800
+28-4-2010 0:00:00,"YASH PRATAP","CONSULTATION/vaccination",1200
+28-4-2010 0:00:00,"YASH PRATAP RUDRAKSH","CONSULTATIONVACCINATION",1400
+28-4-2010 0:00:00,"YASH PRATAP RUDRAKSH","VACCINATION/CONSULTATION",1200
+3-5-2010 0:00:00,"HARDIK","Consultation/Vaccination",1200
+3-5-2010 0:00:00,"BHAVYA","Consultation/Vaccination",1600
+10-5-2010 0:00:00,"AADYA","Consultation/Vaccination",1700
+19-5-2010 0:00:00,"NAMAN","Consultation/Vaccination",600
+22-5-2010 0:00:00,"SANGEETA","Consultation/Vaccination",3000
+28-5-2010 0:00:00,"MANISHA","Consultation/Vaccination",3000
+2-6-2010 0:00:00,"VASEEGAR","Consultation/Vaccination",400
+4-6-2010 0:00:00,"GAGANDEEP","Consultation/Vaccination",3000
+3-6-2010 0:00:00,"RAHUL","Consultation/Vaccination",1800
+3-6-2010 0:00:00,"VANISH","Consultation/Vaccination",1100
+3-6-2010 0:00:00,"ANANYA","Consultation/Vaccination",400
+5-6-2010 0:00:00,"NIDHI","Consultation/Vaccination",3000
+5-6-2010 0:00:00,"JYOTI","Consultation/Vaccination",3000
+8-6-2010 0:00:00,"SAMARTH","Consultation/Vaccination",2200
+19-6-2010 0:00:00,"RICHA","Consultation/Vaccination",3000
+26-6-2010 0:00:00,"ANEMESH","Consultation/Vaccination",2400
+1-7-2010 0:00:00,"SHRADDHA","Vaccination",2800
+3-7-2010 0:00:00,"HRISHIT","Consultation",400
+3-7-2010 0:00:00,"SAMARTH","Consultation",400
+6-7-2010 0:00:00,"RACHNA","Consultation/Vaccination",3000
+8-7-2010 0:00:00,"ISHI SINGH","Consultation/Vaccination",1800
+17-7-2010 0:00:00,"ARYAVEER","Consultation/Vaccination",700
+16-7-2010 0:00:00,"UJJWAL","Consultation/Vaccination",1200
+24-7-2010 0:00:00,"NEHA","Consultation/Vaccination",3000
+1-4-2010 0:00:00,"NEHA","Consultation/Vaccination",3000
+31-7-2010 0:00:00,"ANHUJA","Consultation/Vaccination",3000
+7-8-2010 0:00:00,"NIDHI","Consultation/Vaccination",3000
+12-8-2010 0:00:00,"KRISHAN","Consultation/Vaccination",1200
+14-8-2010 0:00:00,"ATCHAYA  SAHASRA","Consultation/Vaccination",2200
+16-8-2010 0:00:00,"CHUTKI","Consultation/Vaccination",3400
+21-8-2010 0:00:00,"VARUN","Consultation/Vaccination",600
+21-8-2010 0:00:00,"RANVEER","VACCINATION/TRIPACEL",1200
+27-7-2010 0:00:00,"SANGEETA","Consultation/Vaccination",3200
+8-9-2010 0:00:00,"GAGANDEEP","Vaccination",2800
+5-9-2010 0:00:00,"CHANDINI","Vaccination",2500
+11-9-2010 0:00:00,"ARNAV","Consultation/Vaccination",800
+11-9-2010 0:00:00,"DEEPAK","Consultation/Vaccination",800
+9-9-2010 0:00:00,"DR.NIRMALA","Vaccination",100
+9-9-2010 0:00:00,"DR.SHEKHAR","Vaccination",100
+11-9-2010 0:00:00,"SURENDER","Vaccination",100
+15-9-2010 0:00:00,"SAKHI GUPTA","Consultation/Vaccination",1450
+15-9-2010 0:00:00,"SHANEL","Consultation/Vaccination",3000
+19-9-2010 0:00:00,"CHUTKI","Consultation/Vaccination",3400
+22-9-2010 0:00:00,"RICHA","Consultation/Vaccination",3800
+26-9-2010 0:00:00,"RITIK","Consultation/Vaccination",800
+24-9-2010 0:00:00,"ADITYA","Consultation/Vaccination",1700
+16-10-2010 0:00:00,"MEGHA","Consultation/Vaccination",3000
+16-10-2010 0:00:00,"RADHIKA","Consultation/Vaccination",3000
+18-10-2010 0:00:00,"LAKSHEY","Vaccination",1000
+18-10-2010 0:00:00,"ABHISHEK","Consultation/Vaccination",300
+18-10-2010 0:00:00,"MAHATMAJEE","Vaccination",600
+18-10-2010 0:00:00,"SHIVANG","Consultation/Vaccination",1000
+18-10-2010 0:00:00,"POONAM","Vaccination",600
+23-10-2010 0:00:00,"NAMAN","Consultation/Vaccination",1200
+2-11-2010 0:00:00,"SHIKHA","Vaccination",2500
+1-10-2010 0:00:00,"JYOTI ARORA","Vaccination",2800
+1-10-2010 0:00:00,"MR.ARORA","Consultation/Vaccination",800
+8-11-2010 0:00:00,"SHRADDHA","Consultation/Vaccination",1100
+8-11-2010 0:00:00,"ANGEL","Consultation/Vaccination",1900
+9-11-2010 0:00:00,"RAHUL","Consultation/Vaccination",1200
+12-11-2010 0:00:00,"SANEL","Consultation/Vaccination",3300
+12-11-2010 0:00:00,"MEHUL","Consultation/Vaccination",1200
+12-11-2010 0:00:00,"AAKARSH","Vaccination",1600
+30-8-2010 0:00:00,"NAMAN","Vaccination",1000
+17-11-2010 0:00:00,"LAKSHEY","Consultation/Vaccination",400
+19-11-2010 0:00:00,"DEEPAK","Vaccination",500
+19-11-2010 0:00:00,"MRS DEEPAK","Vaccination",500
+30-11-2010 0:00:00,"NAISHA","Vaccination",1700
+27-11-2010 0:00:00,"SANGEETA","Consultation/Vaccination",3000
+10-9-2010 0:00:00,"MR.MALANI","Vaccination",600
+10-9-2010 0:00:00,"MRS.MALANI","Vaccination",600
+2-11-2010 0:00:00,"SHIKHA","Vaccination",2500
+1-11-2010 0:00:00,"CHINMAY","Consultation/Vaccination",1900
+6-12-2010 0:00:00,"CHINMAY","Consultation/Vaccination",1900
+6-12-2010 0:00:00,"MRS SUMITRA","Consultation/Vaccination",800
+29-12-2010 0:00:00,"BHASKAR","Consultation/Vaccination",800
+24-12-2010 0:00:00,"AARAV","Consultation/Vaccination",1700
+25-12-2010 0:00:00,"VAIBHAV","Consultation/Vaccination",1200
+29-12-2010 0:00:00,"VIDHI","Consultation",100
+12-11-2010 0:00:00,"VIDHI","Consultation",100
+21-12-2010 0:00:00,"AAYUSH","Consultation/Vaccination",1700
+12-11-2010 0:00:00,"AAKARSH","Vaccination",1600
+1-1-2011 0:00:00,"AAKARSH","Vaccination",200
+3-1-2011 0:00:00,"TANISHA","Consultation/Vaccination",3000
+3-1-2011 0:00:00,"RYTHEM","Consultation/Vaccination",600
+3-1-2011 0:00:00,"ANGEL","Consultation/Vaccination",400
+3-1-2011 0:00:00,"HARSH","Consultation/Vaccination",1600
+6-1-2011 0:00:00,"NAISHA","Vaccination",5700
+8-1-2011 0:00:00,"VAISHANT","Consultation/Vaccination",2500
+8-1-2011 0:00:00,"NIDHI KHANNA","Consultation/Vaccination",3000
+9-1-2011 0:00:00,"SHIKHA","Vaccination",100
+24-1-2011 0:00:00,"GYANENDER","Consultation/Vaccination",500
+24-1-2011 0:00:00,"VANSHU","Consultation/Vaccination",1900
+24-1-2011 0:00:00,"TEJASVI","Consultation/Vaccination",2200
+24-1-2011 0:00:00,"AARAWLI","Consultation/Vaccination",2200
+29-1-2011 0:00:00,"B/O GEETA","Consultation/Vaccination",500
+2-2-2011 0:00:00,"GAGANDEEP","Consultation/Vaccination",3000
+12-2-2011 0:00:00,"ARYAMAN","Consultation/Vaccination",1100
+16-2-2011 0:00:00,"RADHIKA","Consultation/Vaccination",3000
+21-2-2011 0:00:00,"TANVI","Consultation/Vaccination",500
+6-3-2011 0:00:00,"MEGHA","Consultation/Vaccination",3000
+7-3-2011 0:00:00,"AASHIMA","Consultation/Vaccination",3000
+7-3-2011 0:00:00,"TANISH MAHESHWARI","Consultation/Vaccination",3000
+24-1-2011 0:00:00,"VASU","Consultation/Vaccination",1200
+7-3-2011 0:00:00,"VASU","Consultation/Vaccination",1200
+1-3-2011 0:00:00,"AKSHITA","Consultation",400
+26-2-2011 0:00:00,"AKSHITA","Consultation",400
+12-3-2011 0:00:00,"KRISHAN","Consultation/Vaccination",1400
+15-3-2011 0:00:00,"PIA","Consultation/Vaccination",500
+15-3-2011 0:00:00,"DHRUV","Consultation/Vaccination",500
+24-3-2011 0:00:00,"SHENAL","Consultation/Vaccination",3000
+7-3-2011 0:00:00,"RUDRAKSH","Consultation/Vaccination",1700
+7-3-2011 0:00:00,"VANSH","Consultation/Vaccination",600
+7-4-2011 0:00:00,"MADHAV","Consultation",500
+13-4-2011 0:00:00,"AKSHAT","Consultation/Vaccination",1600
+18-4-2011 0:00:00,"AARAV","Consultation/Vaccination",1600
+2-5-2011 0:00:00,"EIRA","Consultation/Vaccination",2300
+2-5-2011 0:00:00,"RAMINA","Consultation/Vaccination",1700
+9-5-2011 0:00:00,"PRAGYA","Vaccination",1500
+12-5-2011 0:00:00,"AASHIMA","Consultation/Vaccination",3000
+17-5-2011 0:00:00,"ADHAYAYAN","Consultation/Vaccination",1800
+16-2-2011 0:00:00,"ADHAYAYAN","Consultation/Vaccination",700
+30-5-2011 0:00:00,"AAKARSH","Vaccination",800
+31-5-2011 0:00:00,"KUSHAL","Consultation/Vaccination",1800
+17-6-2011 0:00:00,"AALYA","Consultation/Vaccination",1800
+20-6-2011 0:00:00,"HIMANSHU MAHESHWARI","Consultation",1
+29-6-2011 0:00:00,"MANAN","Consultation/Vaccination",1500
+29-6-2011 0:00:00,"SWATI JAIN","Consultation/Vaccination",3000
+24-6-2011 0:00:00,"ADITYA","Vaccination",1800
+1-7-2011 0:00:00,"TANISH","Consultation/Vaccination",1800
+25-6-2011 0:00:00,"SHIVAM","Consultation/Vaccination",1800
+3-7-2011 0:00:00,"B/O SUNITA","Consultation/Vaccination",3600
+24-6-2011 0:00:00,"RACHNA","Consultation/Vaccination",3000
+7-7-2011 0:00:00,"TANISH MAHESHWARY","Consultation/Vaccination",3000
+9-7-2011 0:00:00,"PARNEET KAUR","Consultation",500
+9-7-2011 0:00:00,"TULJA","Consultation/Vaccination",2400
+9-7-2011 0:00:00,"ADHYAYAN","Consultation/Vaccination",500
+13-7-2011 0:00:00,"B/O BHAWNA","Consultation",500
+13-7-2011 0:00:00,"B/O BHAWNA 2ND","Consultation",500
+16-7-2011 0:00:00,"B/O JYOTI","Consultation",500
+22-7-2011 0:00:00,"B/O MADHU","Consultation/Vaccination",1800
+19-7-2011 0:00:00,"BHASKAR","Consultation/Vaccination",1600
+25-6-2011 0:00:00,"KANISHK","Vaccination",250
+30-7-2011 0:00:00,"KANISHK","Vaccination",250
+27-6-2011 0:00:00,"PARUL","Consultation/Vaccination",3000
+1-8-2011 0:00:00,"CHARVI","Consultation/Vaccination",800
+4-8-2011 0:00:00,"SWATI","Consultation/Vaccination",3000
+9-8-2011 0:00:00,"SHOBHIT SINGH","Consultation/Vaccination",800
+12-8-2011 0:00:00,"MANIKARNIKA","Consultation/Vaccination",1800
+20-8-2011 0:00:00,"RACHNA","Consultation/Vaccination",3000
+26-8-2011 0:00:00,"ISHITA","Vaccination",2016
+26-8-2011 0:00:00,"NEHA","Vaccination",2016
+26-8-2011 0:00:00,"SUCHIRA","Vaccination",2016
+29-8-2011 0:00:00,"HARSH","Consultation/Vaccination",1300
+1-9-2011 0:00:00,"SACHIN","Consultation/Vaccination",1800
+1-9-2011 0:00:00,"LAKSHEY","Consultation/Vaccination",1500
+3-9-2011 0:00:00,"B/O SAJIDA","Consultation/Vaccination",500
+29-8-2011 0:00:00,"F/C NISHA","Consultation",500
+29-8-2011 0:00:00,"F/C NISHA","Consultation",500
+12-9-2011 0:00:00,"MR.MALANI","Vaccination",100
+12-9-2011 0:00:00,"DR.SHEKHAR","Vaccination",100
+12-9-2011 0:00:00,"DR.NIRMALA","Vaccination",100
+15-9-2011 0:00:00,"ANANYA GUPTA","Consultation/Vaccination",1400
+17-9-2011 0:00:00,"BHASKAR","Vaccination",600
+22-9-2011 0:00:00,"AASHIMA","Vaccination",2800
+22-9-2011 0:00:00,"NEHA","Consultation/Vaccination",1000
+27-9-2011 0:00:00,"MEHEK","Consultation/Vaccination",500
+2-10-2011 0:00:00,"MEHAK","Consultation/Vaccination",700
+10-10-2011 0:00:00,"AARON","Consultation/Vaccination",2300
+3-10-2011 0:00:00,"ATHARV","Consultation/Vaccination",1800
+17-10-2011 0:00:00,"PARUL","Consultation/Vaccination",3000
+8-10-2011 0:00:00,"POONAM","Consultation/Vaccination",1000
+31-10-2011 0:00:00,"ISHITA","Vaccination",2016
+31-10-2011 0:00:00,"SUCHIRA","Vaccination",2016
+29-10-2011 0:00:00,"ARNAV","Consultation",500
+7-11-2011 0:00:00,"ARNAV","Consultation",500
+22-11-2011 0:00:00,"NAINA","Consultation",500
+28-11-2011 0:00:00,"NAINA","Consultation",500
+17-11-2011 0:00:00,"IRA TYAGI","Consultation",500
+10-12-2011 0:00:00,"MRS SWATI","Consultation/Vaccination",3000
+5-10-2011 0:00:00,"PUHU","Consultation/Vaccination",800
+9-12-2011 0:00:00,"PUHU","Consultation/Vaccination",800
+28-12-2011 0:00:00,"GARV","Consultation",500
+4-1-2012 0:00:00,"VASU","Consultation",500
+7-1-2012 0:00:00,"RAMINA","Consultation/Vaccination",1500
+23-12-2011 0:00:00,"ARNAV","Vaccination",2000
+23-12-2011 0:00:00,"PRERNA SHARMA","Consultation/Vaccination",350
+16-1-2012 0:00:00,"DAKSH","Consultation/Vaccination",3000
+23-1-2012 0:00:00,"TINA","Consultation/Vaccination",3000
+19-12-2011 0:00:00,"SHRUTI","Consultation/Vaccination",800
+4-2-2012 0:00:00,"B/O KAUSHAL","Consultation",500
+4-2-2012 0:00:00,"TEJUS","Consultation",500
+27-2-2012 0:00:00,"SWATI","Consultation/Vaccination",3000
+29-2-2012 0:00:00,"BHUVI","Consultation",500
+1-3-2012 0:00:00,"ARNAV","Consultation/Vaccination",800
+10-3-2012 0:00:00,"BHASKAR","Consultation/Vaccination",1500
+19-3-2012 0:00:00,"NEHA","Vaccination",2000
+19-3-2012 0:00:00,"ISHITA","Vaccination",2000
+16-3-2012 0:00:00,"D/O RANDEEP KAPOOR","Vaccination",2000
+16-3-2012 0:00:00,"W/O RANDEEP KAPOOR","Vaccination",2000
+21-3-2012 0:00:00,"TENZING ZEKHAR","Consultation/Vaccination",1750
+24-2-2012 0:00:00,"ANKITA","Vaccination",1500
+29-3-2012 0:00:00,"ANKITA","Consultation/Vaccination",500
+2-4-2012 0:00:00,"DEVANSH","Consultation/Vaccination",800
+2-4-2012 0:00:00,"YASH","Consultation",500
+2-4-2012 0:00:00,"PRANJAL TRIVEDI","Consultation/Vaccination",500
+2-4-2012 0:00:00,"SHRUTI","Consultation/Vaccination",1800
+4-4-2012 0:00:00,"B/0 PRIYANKA","Consultation",500
+30-3-2012 0:00:00,"B/O PRIYANKA","Consultation/Vaccination",600
+10-4-2012 0:00:00,"ANSHIKA","Consultation",500
+18-7-2011 0:00:00,"BHASKAR","Vaccination",1500
+30-4-2012 0:00:00,"HARSH","Consultation/Vaccination",1500
+2-5-2012 0:00:00,"SWATI","Consultation/Vaccination",3000
+5-5-2012 0:00:00,"B/O ANJU","Consultation",500
+1-5-2012 0:00:00,"B/O ANJU","Consultation/Vaccination",600
+15-5-2012 0:00:00,"SHRADDHA","Consultation/Vaccination",1600
+26-5-2012 0:00:00,"AKRITI","Consultation/Vaccination",3000
+26-5-2012 0:00:00,"PARUL","Consultation/Vaccination",3000
+19-5-2012 0:00:00,"TANISHK","Consultation",500
+25-5-2012 0:00:00,"TANISHK","Consultation",500
+29-5-2012 0:00:00,"TANISHK","Consultation",500
+7-6-2012 0:00:00,"TANISHK","Consultation",500
+7-6-2012 0:00:00,"KARTIK","Consultation/Vaccination",2300
+8-6-2012 0:00:00,"B/O DISHA","Consultation/Vaccination",600
+20-6-2012 0:00:00,"ARNAV","Consultation/Vaccination",1800
+19-6-2012 0:00:00,"PRIYA","Consultation/Vaccination",3000
+23-6-2012 0:00:00,"SHILPI","Consultation/Vaccination",3000
+23-6-2012 0:00:00,"AASHNA","Consultation/Vaccination",3000
+25-6-2012 0:00:00,"DEVANSH","Consultation/Vaccination",500
+2-7-2012 0:00:00,"STUTI","Consultation/Vaccination",1700
+4-7-2012 0:00:00,"B/O ANJALI","Consultation",500
+12-7-2012 0:00:00,"LAKSHEY","Consultation/Vaccination",900
+16-7-2012 0:00:00,"SHWETIMA JOSHI","Consultation/Vaccination",1500
+23-7-2012 0:00:00,"KANISHKA","Consultation/Vaccination",1700
+21-7-2012 0:00:00,"NEHA","Consultation/Vaccination",3000
+4-8-2012 0:00:00,"DHRUV","Vaccination",300
+4-8-2012 0:00:00,"MRINALINI","Vaccination",1200
+6-8-2012 0:00:00,"DEEPAK","Vaccination",550
+6-8-2012 0:00:00,"MRS DEEPAK","Vaccination",550
+26-7-2012 0:00:00,"DR.SHEKHAR","Vaccination",550
+26-7-2012 0:00:00,"DR.NIRMALA","Vaccination",550
+8-8-2012 0:00:00,"AARAV","Consultation/Vaccination",1500
+16-8-2012 0:00:00,"RISHAAN","Consultation/Vaccination",2600
+18-8-2012 0:00:00,"ANSH","Vaccination",1200
+23-8-2012 0:00:00,"SHILPI","Consultation/Vaccination",3000
+24-8-2012 0:00:00,"SARAH","Consultation",500
+24-8-2012 0:00:00,"VANISH","Consultation/Vaccination",1300
+1-9-2012 0:00:00,"MANU JAIN","Consultation/Vaccination",3000
+1-9-2012 0:00:00,"AAKRITI","Consultation/Vaccination",3000
+3-9-2012 0:00:00,"DEVANSH","Consultation/Vaccination",600
+12-4-2012 0:00:00,"BHASKER","Consultation/Vaccination",700
+15-9-2012 0:00:00,"BHASKER","Consultation/Vaccination",1300
+17-9-2012 0:00:00,"ARTI OBEROI","Consultation/Vaccination",1000
+19-9-2012 0:00:00,"B/O VANDANA","Consultation/Vaccination",500
+29-9-2012 0:00:00,"DEVADITYA","Consultation",500
+3-10-2012 0:00:00,"DEVADITY","Consultation",500
+4-10-2012 0:00:00,"DURGESH PAL","Consultation",500
+6-10-2012 0:00:00,"MANAN","Consultation/Vaccination",1700
+7-9-2012 0:00:00,"GUNJAN","Consultation/Vaccination",1400
+11-10-2012 0:00:00,"PARL","Consultation",500
+8-10-2012 0:00:00,"UJJWAL","Consultation/Vaccination",1200
+22-10-2012 0:00:00,"DIVYANSH","Consultation/Vaccination",800
+25-10-2012 0:00:00,"UGEN PEMA SHERPA","Consultation/Vaccination",500
+30-4-2012 0:00:00,"EBEN","Vaccination",10
+2-6-2012 0:00:00,"EBEN","Vaccination",10
+31-10-2012 0:00:00,"EBEN","Vaccination",10
+22-10-2012 0:00:00,"DIVYANSH","Consultation/Vaccination",800
+27-10-2012 0:00:00,"PRATIKSHA","Consultation",500
+26-11-2012 0:00:00,"PIYUSH","Consultation/Vaccination",1700
+11-10-2012 0:00:00,"PIYUSH","Consultation/Vaccination",1500
+26-11-2012 0:00:00,"BITOO","Consultation/Vaccination",1500
+30-11-2012 0:00:00,"SAFAL","Consultation/Vaccination",800
+8-12-2012 0:00:00,"SHIVOHAM","Consultation/Vaccination",3800
+12-10-2012 0:00:00,"BHAVYA","Consultation/Vaccination",1400
+12-12-2012 0:00:00,"BHAVYA","Consultation/Vaccination",1400
+17-12-2012 0:00:00,"KETAN KAPOOR","Consultation/Vaccination",1000
+17-12-2012 0:00:00,"AKSHEY","Consultation/Vaccination",1500
+17-12-2012 0:00:00,"SHRUTI","Consultation/Vaccination",800
+22-12-2012 0:00:00,"SHILPI","Consultation/Vaccination",3000
+28-12-2012 0:00:00,"SANCHITA JAIN","Consultation/Vaccination",1500
+5-1-2013 0:00:00,"MANAN","Consultation/Vaccination",800
+8-1-2013 0:00:00,"SHIVOHAY","Consultation/Vaccination",3800
+12-1-2013 0:00:00,"C/O DR.SANDHYA","Consultation/Vaccination",1700
+24-1-2013 0:00:00,"SHREYA","Consultation/Vaccination",1700
+21-1-2013 0:00:00,"VANSH","Consultation/Vaccination",1700
+22-1-2013 0:00:00,"AAKRITI","Consultation/Vaccination",3000
+22-1-2013 0:00:00,"NEHA SAHAI","Consultation/Vaccination",3000
+1-2-2013 0:00:00,"B/O NISHA ","Consultation",500
+16-2-2013 0:00:00,"KRITTIKA RAI","Consultation/Vaccination",1700
+16-2-2013 0:00:00,"RAHNUMA KHAN","Consultation",500
+18-2-2013 0:00:00,"AARCHA","Consultation/Vaccination",2400
+18-2-2013 0:00:00,"RAHNUMA KHAN","Consultation",500
+21-2-2013 0:00:00,"B/O GEETA","Consultation/Vaccination",700
+23-2-2013 0:00:00,"DHRITI","Vaccination",2500
+23-2-2013 0:00:00,"KARTIKAYA","Consultation/Vaccination",1600
+30-1-2013 0:00:00,"SHOURYA","Consultation/Vaccination",1500
+4-3-2013 0:00:00,"FAAZ ALI KHAN","Consultation/Vaccination",2500
+29-12-2012 0:00:00,"B/O REENA","Consultation",500
+21-3-2013 0:00:00,"MALIHA","Consultation",600
+23-3-2013 0:00:00,"MALIHA","Consultation",600
+23-3-2013 0:00:00,"KRITIKA RAY","Consultation/Vaccination",700
+1-4-2013 0:00:00,"KELSANG KHANDO","Consultation/Vaccination",1500
+1-4-2013 0:00:00,"RAJVEER PANDEY","Consultation",600
+1-4-2013 0:00:00,"KUSH","Consultation/Vaccination",1700
+13-4-2013 0:00:00,"GAURAV","Consultation",600
+27-9-2012 0:00:00,"SHRUTI","Consultation/Vaccination",1500
+15-4-2013 0:00:00,"SHRUTI","Consultation/Vaccination",1500
+15-4-2013 0:00:00,"KUSHAGRA","Consultation/Vaccination",2400
+15-4-2013 0:00:00,"PRIYA","Vaccination",2800
+20-4-2013 0:00:00,"SHRESHT","Consultation",600
+20-4-2013 0:00:00,"PALCHIN","Consultation/Vaccination",1200
+27-4-2013 0:00:00,"MEHAK","Consultation",600
+31-3-2013 0:00:00,"YAQSHITA","Consultation/Vaccination",2200
+27-4-2013 0:00:00,"YASHMITA","Consultation/Vaccination",2100
+29-4-2013 0:00:00,"NITI","Consultation",600
+28-3-2013 0:00:00,"NEHA","Consultation/Vaccination",3000
+28-3-2013 0:00:00,"AASHNA","Consultation/Vaccination",3000
+18-4-2013 0:00:00,"PRANAY","Consultation/Vaccination",2500
+29-4-2013 0:00:00,"B/O NEETU","Vaccination",4000
+11-2-2013 0:00:00,"SHIVOHAM","Consultation/Vaccination",3500
+13-5-2013 0:00:00,"SAHANA","Consultation/Vaccination",3900
+13-5-2013 0:00:00,"ARMAN","Consultation/Vaccination",2200
+3-12-2012 0:00:00,"SONAM","Vaccination",2100
+6-12-2012 0:00:00,"sonam","VACCINATION",2100
+3-10-2012 0:00:00,"SONAM","Vaccination",2100
+18-5-2013 0:00:00,"SONAM SINGH","Vaccination",2100
+18-5-2013 0:00:00,"KARTIKAY AGARWAL","Consultation/Vaccination",900
+18-5-2013 0:00:00,"GAURI","Consultation/Vaccination",1300
+18-5-2013 0:00:00,"PIHU","Consultation/Vaccination",1500
+18-5-2013 0:00:00,"TINA","Vaccination",2800
+13-5-2013 0:00:00,"ABHISHEK","Consultation",600
+20-5-2013 0:00:00,"ABHISHEK","Consultation",600
+25-4-2013 0:00:00,"PARI","Consultation",600
+20-5-2013 0:00:00,"LAKSHEY","Consultation/Vaccination",1000
+20-5-2013 0:00:00,"AARAV","Consultation/Vaccination",900
+7-3-2013 0:00:00,"YASHASVI","Consultation",600
+21-5-2013 0:00:00,"ISHANT","Consultation/Vaccination",1500
+25-5-2013 0:00:00,"LAKSHEY","Consultation/Vaccination",2500
+25-5-2013 0:00:00,"KARTTIKA","Consultation/Vaccination",2500
+26-4-2013 0:00:00,"SONIA","Consultation/Vaccination",3000
+5-6-2013 0:00:00,"CHANCHAL SHARMA","Consultation/Vaccination",2100
+5-6-2013 0:00:00,"SIDDHARTH","Consultation",600
+6-6-2013 0:00:00,"TIYA","Consultation",600
+6-6-2013 0:00:00,"TARUN","Consultation",600
+8-6-2013 0:00:00,"MANAN","Consultation/Vaccination",1500
+10-6-2013 0:00:00,"ABHISHEK","Consultation",600
+10-6-2013 0:00:00,"VANSH","Consultation/Vaccination",1700
+12-6-2013 0:00:00,"SAMBHAVI","Consultation/Vaccination",4000
+27-6-2013 0:00:00,"B/O NEETU","Consultation/Vaccination",700
+29-6-2013 0:00:00,"SOUMYA","Consultation",600
+17-4-2013 0:00:00,"PRIYA","Vaccination",2800
+3-7-2013 0:00:00,"PRIYA","Vaccination",2800
+4-7-2013 0:00:00,"PRIYANSHI PREET","Consultation",600
+4-7-2013 0:00:00,"AHMAD ZAYAN","Consultation",600
+5-7-2013 0:00:00,"YASHIKA","Consultation",600
+6-7-2013 0:00:00,"SAKSHI BANSAL","Consultation/Vaccination",3000
+6-7-2013 0:00:00,"SARVIKA","Consultation/Vaccination",1500
+10-7-2013 0:00:00,"SONIA","Consultation/Vaccination",3000
+13-7-2013 0:00:00,"MAAHIT","Consultation",600
+13-7-2013 0:00:00,"ELENA","Vaccination",1500
+13-7-2013 0:00:00,"DAKSH","Consultation/Vaccination",1400
+20-4-2013 0:00:00,"PRANAY","Consultation/Vaccination",2200
+13-7-2013 0:00:00,"PRANAY","Consultation/Vaccination",2600
+13-7-2013 0:00:00,"NEHA","Consultation/Vaccination",3400
+16-7-2013 0:00:00,"DIVYAKRITI","Consultation/Vaccination",1800
+16-7-2013 0:00:00,"GARVIT","Consultation",600
+20-7-2013 0:00:00,"MAAHIT","Consultation",600
+24-7-2013 0:00:00,"HARSHIT","Consultation",600
+24-7-2013 0:00:00,"DIVYANSH","Consultation",600
+25-7-2013 0:00:00,"RISHABH","Consultation",600
+25-7-2013 0:00:00,"VIDUR","Consultation/Vaccination",4600
+27-7-2013 0:00:00,"LAKSHEY","Consultation/Vaccination",1400
+4-8-2013 0:00:00,"DHARVI","Consultation/Vaccination",1700
+3-8-2013 0:00:00,"HIMANSHU","Vaccination",1000
+3-8-2013 0:00:00,"MAYANK","Consultation/Vaccination",1200
+3-8-2013 0:00:00,"AVNEET","Consultation/Vaccination",2100
+3-8-2013 0:00:00,"HARSHIT","VACCINATION",1500
+8-8-2013 0:00:00,"lakshay","VACCINATION",1700
+10-8-2013 0:00:00,"GAURAV","Consultation/Vaccination",1850
+14-8-2013 0:00:00,"B/O GEETA","Consultation",600
+22-8-2013 0:00:00,"ANMOL MARANDI","Consultation",600
+1-9-2013 0:00:00,"CHANDNI MEHRA","Consultation/Vaccination",3700
+2-9-2013 0:00:00,"PRINCE RAJ","Consultation/Vaccination",1800
+3-9-2013 0:00:00,"RAAISHA","Consultation/Vaccination",4500
+9-9-2013 0:00:00,"SUSHANT","Consultation",600
+9-9-2013 0:00:00,"SAMRIDHI","Consultation",600
+9-9-2013 0:00:00,"SAKSHI","Consultation/Vaccination",3000
+6-9-2013 0:00:00,"HARSHIT","Consultation/Vaccination",1500
+6-9-2013 0:00:00,"DHARVI","Consultation/Vaccination",1500
+14-9-2013 0:00:00,"AKSHITA","Consultation/Vaccination",2700
+14-9-2013 0:00:00,"ANJANA","VACCINATION",2700
+15-9-2013 0:00:00,"NEHA","Vaccination",2800
+16-9-2013 0:00:00,"SAMRIDHI","Consultation",600
+16-9-2013 0:00:00,"BHAVYA","Consultation/Vaccination",600
+17-9-2013 0:00:00,"DEV MARWAH","Consultation/Vaccination",1600
+17-9-2013 0:00:00,"LYRAA","Consultation",600
+19-9-2013 0:00:00,"SAMRITI","Consultation",600
+23-9-2013 0:00:00,"SAMRITI","Consultation",600
+23-9-2013 0:00:00,"JUYOUNG","Consultation",600
+27-9-2013 0:00:00,"SAMRITI","Consultation",600
+27-9-2013 0:00:00,"SUSHANT","Consultation",600
+26-9-2013 0:00:00,"PAYAL ARORA","Consultation/Vaccination",3000
+18-9-2013 0:00:00,"ARMAN","Consultation/Vaccination",1800
+17-9-2013 0:00:00,"DR.SHEKHAR","Vaccination",520
+17-9-2013 0:00:00,"DR.DEEPAK","Vaccination",520
+17-9-2013 0:00:00,"DR.DEEPAK WIFE","Vaccination",520
+17-9-2013 0:00:00,"DR.DEEPAK SON","Vaccination",520
+29-9-2013 0:00:00,"MR BHASKAR","Vaccination",650
+3-10-2013 0:00:00,"MR.ARORA","Vaccination",600
+3-10-2013 0:00:00,"B/O SUDARSHANA","Consultation",600
+5-10-2013 0:00:00,"HARSHIT","Consultation",600
+5-10-2013 0:00:00,"MEHAK","Consultation",600
+9-10-2013 0:00:00,"KARTIK KAUSHIK","Consultation",600
+10-10-2013 0:00:00,"POONAM","Consultation/Vaccination",1000
+10-10-2013 0:00:00,"POONAM","Consultation/Vaccination",1000
+8-10-2013 0:00:00,"ZENIA","Consultation/Vaccination",3500
+7-10-2013 0:00:00,"JUYOUNG","Consultation/Vaccination",2200
+23-8-2013 0:00:00,"VAIBHAV","Consultation/Vaccination",1250
+22-10-2013 0:00:00,"VAIBHAV","Consultation/Vaccination",1800
+22-10-2013 0:00:00,"HEMA","Consultation/Vaccination",6100
+26-10-2013 0:00:00,"KARTTIKA","Consultation/Vaccination",1700
+31-10-2013 0:00:00,"B/O MEENU","Consultation/Vaccination",3500
+30-10-2013 0:00:00,"PRIYA","Vaccination",2800
+7-11-2013 0:00:00,"NEHA","Consultation/Vaccination",1100
+7-11-2013 0:00:00,"AARAV","Consultation/Vaccination",500
+7-11-2013 0:00:00,"DURVISH","Consultation/Vaccination",2850
+11-11-2013 0:00:00,"B/O MEENAKSHI","Consultation/Vaccination",2500
+16-11-2013 0:00:00,"DEVESH","Consultation/Vaccination",1700
+19-11-2013 0:00:00,"ABDUL","Consultation/Vaccination",2400
+19-11-2013 0:00:00,"VANSH","Consultation/Vaccination",1700
+21-11-2013 0:00:00,"ARYA","Consultation",600
+23-11-2013 0:00:00,"SUHANI","Consultation/Vaccination",900
+30-11-2013 0:00:00,"KARTTIKA","Consultation/Vaccination",2300
+30-11-2013 0:00:00,"GAURI AGARWAL","Consultation/Vaccination",800
+28-11-2013 0:00:00,"ABHISHEK","Consultation",600
+2-12-2013 0:00:00,"B/O RUCHI ","Consultation",600
+7-12-2013 0:00:00,"PIYUSH","Consultation",600
+7-12-2013 0:00:00,"ARADHYA","Consultation",600
+17-12-2013 0:00:00,"PAYAL ARORA","Consultation/Vaccination",3500
+26-12-2013 0:00:00,"ARMAN","Consultation/Vaccination",1700
+28-12-2013 0:00:00,"GYATRI","Consultation",600
+1-1-2014 0:00:00,"PRIOSKA AGARWAL","Consultation/Vaccination",6800
+4-1-2014 0:00:00,"TAPASMITA AGARWAL","Consultation/Vaccination",2000
+16-1-2014 0:00:00,"SAKSHI","Consultation/Vaccination",3000
+18-1-2014 0:00:00,"AYUSHMAN","Consultation/Vaccination",1700
+17-1-2014 0:00:00,"DEEPIKA","Vaccination",2500
+17-1-2014 0:00:00,"NEHA","Vaccination",2800
+19-1-2014 0:00:00,"MONICCA","Vaccination",2500
+6-1-2014 0:00:00,"ANANYA","Consultation/Vaccination",4200
+6-1-2014 0:00:00,"SAFIYA","Consultation",600
+6-1-2014 0:00:00,"SONIYA","VACCINATION",3000
+16-1-2014 0:00:00,"AARAV RANA","Consultation",600
+23-1-2014 0:00:00,"ISHAAN","Consultation/Vaccination",1700
+27-1-2014 0:00:00,"KUNSANG","Consultation/Vaccination",2000
+28-1-2014 0:00:00,"AARAV","Consultation/Vaccination",1800
+28-1-2014 0:00:00,"NEHA","Vaccination",100
+29-1-2014 0:00:00,"DEVESH","Consultation/Vaccination",600
+29-1-2014 0:00:00,"VANSH","Consultation/Vaccination",1600
+31-1-2014 0:00:00,"p.agarwal","VACCINATION",6800
+17-2-2014 0:00:00,"SEASON","Consultation",600
+20-2-2014 0:00:00,"SEASON","Consultation",600
+21-2-2014 0:00:00,"DHARVI","Consultation/Vaccination",1500
+24-2-2014 0:00:00,"ISHAAN","Consultation/Vaccination",800
+24-2-2014 0:00:00,"ARMAAN","Consultation/Vaccination",800
+4-3-2014 0:00:00,"PRIOSKA","Consultation/Vaccination",6800
+6-3-2014 0:00:00,"SHWETA","Consultation/Vaccination",3000
+6-3-2014 0:00:00,"VAIBHAV","Consultation/Vaccination",2400
+8-3-2014 0:00:00,"TAPASMITA","Consultation/Vaccination",700
+8-3-2014 0:00:00,"ADHYAYAN","Consultation/Vaccination",2400
+10-3-2014 0:00:00,"NAMIT","Consultation/Vaccination",2000
+10-3-2014 0:00:00,"KRINCE","Consultation",600
+10-3-2014 0:00:00,"SHAURYA","Consultation/Vaccination",2600
+10-3-2014 0:00:00,"AARAV","Consultation/Vaccination",2600
+8-3-2014 0:00:00,"ADVAY","Vaccination",1400
+8-3-2014 0:00:00,"ISHIKA","Vaccination",2700
+12-3-2014 0:00:00,"ADAM","Consultation/Vaccination",2700
+15-3-2014 0:00:00,"DR.TENZIN YOULO","Vaccination",3700
+20-3-2014 0:00:00,"ARADHYA AGARWAL","Consultation/Vaccination",8200
+25-3-2014 0:00:00,"AARAV","Consultation/Vaccination",700
+25-2-2014 0:00:00,"PUSHP LATA","Consultation/Vaccination",1800
+22-11-2013 0:00:00,"CHANDNI MEHRA","Consultation/Vaccination",3000
+31-3-2014 0:00:00,"PRAGYA","Consultation/Vaccination",1800
+16-11-2013 0:00:00,"ANSH","Consultation/Vaccination",1500
+7-4-2014 0:00:00,"B/O JYOTI","Consultation/Vaccination",4000
+12-4-2014 0:00:00,"B/O MUKTI","Consultation/Vaccination",700
+12-4-2014 0:00:00,"B/O MUKTI","Consultation/Vaccination",700
+10-4-2014 0:00:00,"AARAV","Consultation",600
+14-4-2014 0:00:00,"AARAV","Consultation",600
+14-4-2014 0:00:00,"ADAM","Consultation/Vaccination",5800
+8-4-2014 0:00:00,"AADI GARG","Consultation",600
+16-4-2014 0:00:00,"B/O SARITA","Consultation/Vaccination",600
+14-4-2014 0:00:00,"VANSH","Consultation/Vaccination",1600
+26-4-2014 0:00:00,"KRITTIKA ","Consultation/Vaccination",1700
+26-4-2014 0:00:00,"PAYAL","Consultation/Vaccination",3500
+31-3-2014 0:00:00,"PRIYA","Vaccination",2800
+12-5-2014 0:00:00,"AHAAN","Consultation/Vaccination",8000
+17-5-2014 0:00:00,"AKRITI","Vaccination",2800
+19-5-2014 0:00:00,"YASH","Consultation/Vaccination",1800
+19-5-2014 0:00:00,"SHWETA","Consultation/Vaccination",3400
+22-5-2014 0:00:00,"PRAVANYA","Consultation/Vaccination",2200
+22-5-2014 0:00:00,"KABEER","Consultation/Vaccination",3200
+26-5-2014 0:00:00,"DEVESH","Consultation/Vaccination",1700
+31-5-2014 0:00:00,"SAARTHAK","Consultation/Vaccination",2500
+5-6-2014 0:00:00,"ARADHYA SHARMA","Consultation/Vaccination",3300
+5-6-2014 0:00:00,"RAJNANDINI","Consultation/Vaccination",700
+5-6-2014 0:00:00,"DR. SIMMON THOMAS","Vaccination",1240
+9-6-2014 0:00:00,"ARYA SHUKLA","Consultation/Vaccination",1800
+12-6-2014 0:00:00,"ANMOL","Consultation",600
+12-6-2014 0:00:00,"EMMANUEL.L.INFIMATE","Vaccination",7000
+12-6-2014 0:00:00,"CATHERINE L INFIMATE","Vaccination",7000
+13-6-2014 0:00:00,"TANUSH","Consultation/Vaccination",2700
+10-5-2014 0:00:00,"AARYA SHUKLA","Consultation/Vaccination",1800
+10-5-2014 0:00:00,"SIYONA SINHA","Consultation",600
+10-5-2014 0:00:00,"MISHTI","Consultation/Vaccination",2000
+10-6-2014 0:00:00,"DR. TENZING","Consultation/Vaccination",1200
+10-6-2014 0:00:00,"DR. TENZING","Vaccination",2500
+14-6-2014 0:00:00,"GEETA","Consultation/Vaccination",3000
+16-6-2014 0:00:00,"YASH AGARWAL","Consultation",600
+17-6-2014 0:00:00,"ADAM","Consultation/Vaccination",4900
+18-6-2014 0:00:00,"RISHI","Consultation",600
+28-6-2014 0:00:00,"PRAGYASHEEL","Consultation/Vaccination",4600
+23-6-2014 0:00:00,"ARJUN","Consultation/Vaccination",1400
+28-6-2014 0:00:00,"B/O GEETA ","Vaccination",1600
+5-7-2014 0:00:00,"ADYAA","Consultation",600
+5-7-2014 0:00:00,"RAJ","Consultation/Vaccination",700
+25-6-2014 0:00:00,"KRITI","Consultation/Vaccination",2200
+30-6-2014 0:00:00,"ANKITA","Consultation/Vaccination",1700
+7-7-2014 0:00:00,"ABHISHEK BENERJI","Consultation/Vaccination",2400
+7-7-2014 0:00:00,"ABHISHEK BENERJI","Consultation/Vaccination",2300
+17-7-2014 0:00:00,"DAKSH JAIN","Consultation",600
+10-5-2014 0:00:00,"RADHIKA","Vaccination",2800
+12-5-2014 0:00:00,"SURESH","Consultation/Vaccination",5000
+30-7-2014 0:00:00,"ISHAN","Consultation/Vaccination",1700
+1-8-2014 0:00:00,"BUDDHADITYA  DASS","Consultation/Vaccination",4600
+2-8-2014 0:00:00,"SARTHAK","Consultation/Vaccination",2700
+6-8-2014 0:00:00,"TIYA","Consultation",600
+14-8-2014 0:00:00,"SATVIK","Consultation",600
+14-8-2014 0:00:00,"TIYA","Consultation",600
+19-8-2014 0:00:00,"ADAM","Consultation/Vaccination",700
+20-8-2014 0:00:00,"UTKRISH","Consultation/Vaccination",1100
+27-8-2014 0:00:00,"MUSKAN","Consultation",600
+26-8-2014 0:00:00,"GEETARANI","Consultation/Vaccination",3000
+30-8-2014 0:00:00,"DAKSHIT","Consultation/Vaccination",1400
+30-8-2014 0:00:00,"MUSKAN","Consultation",600
+30-8-2014 0:00:00,"SONAL","Consultation",600
+31-8-2014 0:00:00,"B/O RAHUL CA","Consultation",1
+8-9-2014 0:00:00,"RUHAAN","Consultation",600
+13-9-2014 0:00:00,"SANYA GOEL","Consultation/Vaccination",6600
+4-8-2014 0:00:00,"TIYA","Consultation",600
+11-9-2014 0:00:00,"TIYA","Consultation",600
+15-9-2014 0:00:00,"TENZING","Consultation",600
+15-9-2014 0:00:00,"MAMATA PRADHAN","Vaccination",100
+17-9-2014 0:00:00,"AAKRITI SHARMA","Consultation/Vaccination",3000
+18-9-2014 0:00:00,"AVNI","Consultation/Vaccination",1900
+18-9-2014 0:00:00,"RACHIT KUMAR","Consultation/Vaccination",2400
+4-10-2014 0:00:00,"NIPUN","Consultation",600
+4-10-2014 0:00:00,"NIPUN","Consultation",600
+20-10-2014 0:00:00,"VANI BARANWAL","Consultation",600
+18-10-2014 0:00:00,"TANUSH","Consultation/Vaccination",4100
+7-11-2014 0:00:00,"PRIOSKA AGARWAL","Consultation/Vaccination",4400
+10-11-2014 0:00:00,"VISHVAS ","Consultation/Vaccination",2300
+13-11-2014 0:00:00,"B/O HARSHIKA JAIN","Consultation",600
+13-11-2014 0:00:00,"B/O HARSHIKA JAIN","Consultation",600
+17-11-2014 0:00:00,"ARMAN","Consultation/Vaccination",1700
+24-11-2014 0:00:00,"AADI","Consultation/Vaccination",1600
+24-11-2014 0:00:00,"AADI","Consultation/Vaccination",1200
+1-12-2014 0:00:00,"SAKSHAM","Consultation",700
+11-8-2014 0:00:00,"KRITIKA","Consultation/Vaccination",1700
+31-12-2014 0:00:00,"ANJANEY","Consultation",700
+3-1-2015 0:00:00,"ANANYA","Consultation/Vaccination",2400
+5-1-2015 0:00:00,"DEVESH","Consultation/Vaccination",1800
+15-1-2015 0:00:00,"GEET","Consultation/Vaccination",3000
+3-2-2015 0:00:00,"B/O SAPNA","Consultation/Vaccination",700
+9-2-2015 0:00:00,"   AAKRIT","Consultation",700
+9-2-2015 0:00:00,"B/O NEETI","Consultation",700
+12-2-2015 0:00:00,"REYANSH ","Consultation",700
+12-2-2015 0:00:00,"TUTSI","Consultation",700
+24-2-2015 0:00:00,"B/O SUNITA MISHRA","Consultation/Vaccination",500
+28-2-2015 0:00:00,"JOSEPH VICTOR EDWIN","Consultation/Vaccination",2200
+28-2-2015 0:00:00,"KESAR SHARMA","Consultation/Vaccination",2400
+28-2-2015 0:00:00,"RAMANPREET","Vaccination",2800
+4-3-2015 0:00:00,"JOSEPH KAKATHIL","Consultation/Vaccination",2200
+17-3-2015 0:00:00,"B/O UMA ","Consultation/Vaccination",700
+18-3-2015 0:00:00,"RIYANSHI","Consultation/Vaccination",1800
+19-3-2015 0:00:00,"BRIJ MOHAN JOSHI","Consultation/Vaccination",2400
+23-3-2015 0:00:00,"DAKSH","Consultation/Vaccination",1400
+26-3-2015 0:00:00,"B/O BHARTI SHARMA","Consultation/Vaccination",600
+1-4-2015 0:00:00,"M/C POOJA KUMARI","Consultation/Vaccination",700
+6-4-2015 0:00:00,"M/C POOJA KUMARI","Consultation",700
+16-4-2015 0:00:00,"WADHERA AHAAN","Consultation/Vaccination",2400
+31-1-2006 0:00:00,"SIMRAN","Consultation",130
+2-2-2006 0:00:00,"B/O AJEET","Consultation",200
+4-2-2006 0:00:00,"PALASH AGARWAL","Consultation",130
+8-2-2006 0:00:00,"KUNJAL","Consultation",150
+26-6-2004 0:00:00,"B/O BABITA","Vaccination",400
+24-7-2004 0:00:00,"B/O KUSUM LATA","Vaccination",450
+13-8-2004 0:00:00,"DIVYA","Consultation",100
+13-8-2004 0:00:00,"DIKSHA","Consultation",100
+18-8-2004 0:00:00,"ANANYA GUPTA","Consultation",100
+18-8-2004 0:00:00,"RISHI ","Consultation",100
+20-8-2004 0:00:00,"HARGOON","Consultation",100
+20-8-2004 0:00:00,"ANANYA GARG","Consultation",100
+21-8-2004 0:00:00,"SHRESHTH","Consultation",120
+21-8-2004 0:00:00,"SHUBHIKA","Consultation",150
+1-9-2004 0:00:00,"BIPASHA","Consultation",100
+8-4-1995 0:00:00,"GARIMA","Consultation",80
+23-4-2003 0:00:00,"GARIMA","FURUNCULOSIS",80
+8-4-1995 0:00:00,"GARIMA","Consultation",80
+27-4-1999 0:00:00,"ABHIUDAY (SPH)","Consultation",200
+26-4-2003 0:00:00,"ABHIUDAY (SPH)","UTI",200
+28-4-7970 0:00:00,"RAGHV","Consultation",80
+28-4-1997 0:00:00,"RAGHV","Consultation",80
+28-8-1998 0:00:00,"NANCY","Consultation",100
+28-4-2003 0:00:00,"RAGHAW","CONSULTATION",80
+28-4-2003 0:00:00,"NANCY","CONSULTATION",100
+12-9-1998 0:00:00,"NANCY","Consultation",100
+3-8-2001 0:00:00,"MEHARBAN","Consultation",80
+3-5-2003 0:00:00,"MAHARBAN","CONSULTATION",80
+3-8-2001 0:00:00,"MEHARBAN","Consultation",80
+3-8-2001 0:00:00,"MEHARBAN","Consultation",80
+9-9-1998 0:00:00,"NIKITA","Vaccination",150
+12-5-2003 0:00:00,"NIKITA","DPT/OPV",150
+9-9-1998 0:00:00,"NIKITA","Vaccination",150
+22-2-2003 0:00:00,"RACHIT","Consultation",100
+21-5-2003 0:00:00,"RACHIT","URI &ASOM",100
+28-12-2002 0:00:00,"GAHSU","Vaccination",700
+22-5-2003 0:00:00,"GAHSU","T.HIB/OPV",700
+26-5-1996 0:00:00,"AASHNA","Consultation",100
+26-5-1996 0:00:00,"AASHNA","Consultation",100
+23-5-2003 0:00:00,"AASHNA","CONSULTATION",100
+31-8-1996 0:00:00,"PARITOSH","Consultation",100
+31-8-1996 0:00:00,"PARITOSH","Consultation",100
+18-11-2002 0:00:00,"PARITOSH","HRAD",100
+31-8-1996 0:00:00,"PARITOSH","Consultation",100
+19-11-2002 0:00:00,"KARTIK","HRAD ; PHARINGITIS",130
+10-6-2002 0:00:00,"VARUN","Consultation",100
+10-6-2002 0:00:00,"VARUN","Consultation",100
+5-4-2002 0:00:00,"RIA","Consultation",100
+25-11-2002 0:00:00,"VARUN","PHARINGITIS",100
+25-11-2002 0:00:00,"RIA","URI",100
+22-7-1999 0:00:00,"JAYANTI","Consultation",100
+26-11-2002 0:00:00,"JAYANTI","APPETITE",100
+26-11-2002 0:00:00,"KARTIK","HRAD",80
+30-11-1996 0:00:00,"GURSEEM  KOCHER","Consultation",100
+8-12-2002 0:00:00,"GURSEEM  KOCHER","AC  CROUP",100
+4-12-2000 0:00:00,"ABHIJEET  ","Vaccination",1000
+4-12-2000 0:00:00,"ABHIJEET  ","Vaccination",1000
+23-3-2002 0:00:00,"GURVANI","Consultation",100
+16-12-2002 0:00:00,"ABHIJEET","VAACCINATION  HEPATITIS  A",1000
+16-12-2002 0:00:00,"GURVANI","HRAD  PHARINGITIS",100
+23-1-2003 0:00:00,"KARTIK ","Consultation",80
+25-1-2003 0:00:00,"SUHARSH","Consultation",100
+25-1-2003 0:00:00,"SUHARSH","Consultation",100
+25-1-2003 0:00:00,"SUHARSH","Consultation",100
+17-5-1999 0:00:00,"NIKITA","Consultation",100
+17-5-1999 0:00:00,"NIKITA","Consultation",100
+17-5-1999 0:00:00,"NIKITA","Consultation",100
+17-5-1999 0:00:00,"NIKITA","Consultation",100
+17-5-1999 0:00:00,"NIKITA","Consultation",100
+17-5-1999 0:00:00,"NIKITA","Consultation",100
+17-5-1999 0:00:00,"NIKITA","Consultation",100
+9-7-1998 0:00:00,"PARTH","Vaccination",130
+9-7-1998 0:00:00,"PARTH","Vaccination",130
+10-12-2000 0:00:00,"SUHARSH","Vaccination",1350
+10-12-2000 0:00:00,"SUHARSH","Vaccination",1350
+10-12-2000 0:00:00,"SUHARSH","Vaccination",1350
+10-12-2000 0:00:00,"SUHARSH","Vaccination",1350
+10-12-2000 0:00:00,"SUHARSH","Vaccination",1350
+10-12-2000 0:00:00,"SUHARSH","Vaccination",1350
+10-12-2000 0:00:00,"SUHARSH","Vaccination",1350
+10-12-2000 0:00:00,"SUHARSH","Vaccination",1350
+10-2-2003 0:00:00,"SUHARSH","HEPATITIS  A/ TYPHOID",1350
+11-11-1996 0:00:00,"TUSHAR","Consultation",100
+11-11-1996 0:00:00,"TUSHAR","Consultation",100
+11-11-1996 0:00:00,"TUSHAR","Consultation",100
+2-4-2003 0:00:00,"ANUBHA","Vaccination",300
+29-7-2000 0:00:00,"ANUBHA","Vaccination",300
+29-7-2000 0:00:00,"ANUBHA","Vaccination",300
+26-3-2003 0:00:00,"VAIBHAV","Consultation",100
+13-8-2000 0:00:00,"DHRUV","Consultation",100
+19-9-2001 0:00:00,"VISHAL","Consultation",100
+19-9-2001 0:00:00,"VISHAL","Consultation",100
+19-9-2001 0:00:00,"VISHAL","Consultation",100
+18-4-2003 0:00:00,"B/O SHRUTI","BCG/OPV /HEP B",450
+16-4-2003 0:00:00,"B/O SHRUTI","Vaccination",450
+2-6-2003 0:00:00,"VANI","Vaccination",200
+4-6-2003 0:00:00,"VANSHIKA","Consultation",100
+6-6-2003 0:00:00,"LAKSHAY","Vaccination",200
+6-6-2003 0:00:00,"NIKITA","Consultation",100
+13-6-2003 0:00:00,"BHAVYA","Consultation",100
+17-6-2003 0:00:00,"SARTHAK","Consultation",100
+22-6-2003 0:00:00,"KUNAL","Consultation",100
+28-6-2003 0:00:00,"VISHL","Consultation",100
+7-7-2003 0:00:00,"APEKSHA","Consultation",100
+8-7-2003 0:00:00,"RAKSHIT","Consultation",100
+15-7-2003 0:00:00,"AVANTIKA","Consultation",1
+17-7-2003 0:00:00,"VANI","Consultation",100
+17-7-2003 0:00:00,"ROHIT","Consultation",100
+19-7-2003 0:00:00,"APEKSHA","Consultation",150
+20-7-2003 0:00:00,"VANSH","Consultation",100
+22-7-2003 0:00:00,"AASHNA","Consultation",100
+25-7-2003 0:00:00,"AYUSH","Consultation",100
+23-8-2003 0:00:00,"TANYA","Consultation",100
+23-8-2003 0:00:00,"GURSHARAN","Consultation",80
+4-9-2003 0:00:00,"RACHIT","Consultation",100
+4-9-2003 0:00:00,"PARTH","Vaccination",300
+4-9-2003 0:00:00,"VAIBHAV","Vaccination",300
+21-9-2003 0:00:00,"PARAS","Consultation",120
+22-9-2003 0:00:00,"KRISH","Consultation",100
+24-9-2003 0:00:00,"CHIRAYU","Consultation",100
+30-9-2003 0:00:00,"MEHARBAN","Consultation",100
+1-10-2003 0:00:00,"B/O SHALNI","Vaccination",500
+3-10-2003 0:00:00,"KRISH","Consultation",100
+6-10-2003 0:00:00,"KASHISH","Consultation",100
+8-10-2003 0:00:00,"DEEPALI","Consultation",100
+15-10-2003 0:00:00,"SEHAJ NOOR","Vaccination",200
+15-10-2003 0:00:00,"HARSH NOOR","Vaccination",200
+18-10-2003 0:00:00,"SANSKAR","Consultation",100
+18-10-2003 0:00:00,"SAMAY","Consultation",100
+18-10-2003 0:00:00,"URVEEN","Consultation",100
+6-11-2003 0:00:00,"SNEHAL","Consultation",100
+6-11-2003 0:00:00,"VASU","Vaccination",1400
+11-11-2003 0:00:00,"KRISH","Consultation",100
+14-11-2003 0:00:00,"B/O JYOTI","Consultation",100
+16-11-2003 0:00:00,"B/O AMARDEEP","Consultation",100
+20-11-2003 0:00:00,"B/O SANGEETA","Vaccination",400
+28-11-2003 0:00:00,"VRISHTI","Consultation",100
+28-11-2003 0:00:00,"PAPPISHY","Consultation",100
+28-11-2003 0:00:00,"YTHARTH","Consultation",100
+2-12-2003 0:00:00,"MADHU","Consultation",80
+10-12-2003 0:00:00,"RAHUL","Consultation",100
+17-12-2003 0:00:00,"NIKITA","Vaccination",1000
+25-12-2003 0:00:00,"B/O SHEELA","Vaccination",400
+29-12-2003 0:00:00,"HARAN RAJESH  ","Consultation",100
+6-1-2004 0:00:00,"ANSH","Vaccination",600
+14-1-2004 0:00:00,"KANIKA","Consultation",100
+19-1-2004 0:00:00,"HIMANSHU (NANGLOI)","Consultation",50
+19-1-2004 0:00:00,"B/O DIMPLE (NANGLOI)","Vaccination",300
+19-1-2004 0:00:00,"B/O POONAM (NANGLOI)","Vaccination",300
+23-1-2004 0:00:00,"M/C OF SHARMILA (SPH)","Consultation/Vaccination",500
+23-1-2004 0:00:00,"M/C OF YOGITA (SPH)","Vaccination",400
+23-1-2004 0:00:00,"B/O MONIKA (GUJRAL)","BCG/OPV/HEPATITIS B",400
+23-1-2004 0:00:00,"SESHWAR (GUJRAL)","HEPATITIS B",200
+23-1-2004 0:00:00,"SNEHAL (GUJRAL)","T.HIB/OPV",600
+30-1-2004 0:00:00,"B/O PADMA","Consultation/BCG/OPV/HEPATITIS",500
+17-2-2004 0:00:00,"ANSH","Vaccination",600
+17-2-2004 0:00:00,"B/O KHUSHI","Vaccination",400
+11-3-2004 0:00:00,"AASHI","Consultation",100
+11-3-2004 0:00:00,"KRISHNA","Consultation",100
+13-3-2004 0:00:00,"GURKIRATH","Consultation",100
+13-3-2004 0:00:00,"VASU","Vaccination",750
+4-4-2004 0:00:00,"SESHWAR","Consultation",100
+22-5-2004 0:00:00,"LAYAN","Consultation",100
+23-5-2004 0:00:00,"SATYAM","Consultation",100
+23-5-2004 0:00:00,"SATYAM","Consultation",100
+2-6-2004 0:00:00,"B/O NIDHI","Vaccination",450
+4-6-2004 0:00:00,"B/O ","Vaccination",450
+9-6-2004 0:00:00,"GURKIRATH","Consultation",100
+9-6-2004 0:00:00,"KUDRAT","Consultation",100
+15-6-2004 0:00:00,"MANJARI","Consultation",100
+22-6-2004 0:00:00,"SAMRIDHI","Consultation",100
+22-6-2004 0:00:00,"MRIDU","Consultation",100
+2-7-2004 0:00:00,"NIDHI","Consultation",100
+2-7-2004 0:00:00,"BHARAT","Consultation",150
+6-7-2004 0:00:00,"RAUNAQ","Consultation",100
+13-7-2004 0:00:00,"NIDHI","Consultation",100
+21-7-2004 0:00:00,"JASKIRAT","Consultation",100
+27-7-2004 0:00:00,"BHUVAN","Vaccination",600
+29-7-2004 0:00:00,"RAUNAQ","Consultation",100
+22-9-2004 0:00:00,"B/O SANGEETA","Vaccination",450
+22-9-2004 0:00:00,"B/O SARITA","Vaccination",450
+24-9-2004 0:00:00,"ARNAV","Vaccination",1350
+14-10-2004 0:00:00,"ARSHIA","Consultation",120
+14-10-2004 0:00:00,"HARSH","Consultation",120
+14-10-2004 0:00:00,"DEEPAK","Vaccination",150
+14-10-2004 0:00:00,"SANDEEP","Vaccination",150
+16-10-2004 0:00:00,"SHIVANG","Consultation",120
+19-10-2004 0:00:00,"RAUNAK ","Consultation",120
+26-10-2004 0:00:00,"MEHAK","Consultation",120
+17-11-2004 0:00:00,"SIDDHARTH","Consultation",100
+17-11-2004 0:00:00,"ANSH","Consultation",100
+26-11-2004 0:00:00,"JAI","Consultation",120
+30-11-2004 0:00:00,"PARAS","Consultation",100
+30-11-2004 0:00:00,"VAANI","Consultation",120
+27-8-2005 0:00:00,"TANYA","Vaccination",1000
+3-9-2005 0:00:00,"RIA","Vaccination",200
+3-9-2005 0:00:00,"PRIYA","Consultation/Vaccination",500
+25-7-2005 0:00:00,"B/O UMA","Consultation/Vaccination",450
+24-8-2005 0:00:00,"M/C OF SEEMA","Vaccination",450
+1-9-2005 0:00:00,"B/O INDERJEET 2ND","Consultation/Vaccination",450
+1-10-2005 0:00:00,"SAMARTH","Consultation",200
+8-10-2005 0:00:00,"KHUSHI","Consultation",200
+13-10-2005 0:00:00,"KHUSHI","Consultation",200
+5-11-2005 0:00:00,"TANAY","Vaccination",1000
+5-11-2005 0:00:00,"MADHAV","Consultation/Vaccination",400
+7-11-2005 0:00:00,"SHINIPAULY","Vaccination",200
+3-11-2005 0:00:00,"B/O SHANTI","Consultation/Vaccination",500
+12-11-2005 0:00:00,"TENZING","Vaccination",1350
+12-11-2005 0:00:00,"VASSEGAR","Vaccination",1500
+21-11-2005 0:00:00,"SUNIL K. JAIN","Consultation",250
+26-11-2005 0:00:00,"RENU","Consultation/Vaccination",1500
+10-12-2005 0:00:00,"SARTHAK","Consultation",200
+17-12-2005 0:00:00,"B/O MANEKA","Consultation",250
+26-12-2005 0:00:00,"TUSHAR ROHILLA","Consultation/Vaccination",1500
+28-12-2005 0:00:00,"AKKI","Consultation",250
+2-1-2006 0:00:00,"ARPITA","Consultation",250
+11-1-2006 0:00:00,"SHIV KUMAR","Vaccination",400
+26-1-2006 0:00:00,"MR.SATPATY","Consultation/Vaccination",1500
+31-1-2006 0:00:00,"JHANVI","Consultation",130
+13-2-2006 0:00:00,"KRISH","Consultation",130
+25-2-2006 0:00:00,"NAVISHA","Consultation/Vaccination",700
+28-2-2006 0:00:00,"VANSHIKA","Consultation",130
+4-3-2006 0:00:00,"KRISH","Consultation",130
+7-3-2006 0:00:00,"KANIKA","Consultation",130
+9-3-2006 0:00:00,"KAMAKSHI","Consultation/Vaccination",750
+9-3-2006 0:00:00,"KAMYA","Consultation/Vaccination",750
+8-4-2006 0:00:00,"TUSHAR","Consultation",250
+24-4-2006 0:00:00,"ADITI","Consultation/Vaccination",450
+29-4-2006 0:00:00,"YATHAARTH","Consultation",250
+5-5-2006 0:00:00,"MANMEET","Consultation",250
+6-5-2006 0:00:00,"DHHANUSHREE","Consultation/Vaccination",300
+6-5-2006 0:00:00,"SHIVAM","Consultation/Vaccination",300
+6-5-2006 0:00:00,"DIYA","Consultation/vaccination",1100
+8-5-2006 0:00:00,"sonu","t.hib/opv",600
+13-5-2006 0:00:00,"GARVIT","Consultation/Vaccination",2050
+24-5-2006 0:00:00,"KAMAKSHI","Consultation/Vaccination",2100
+27-5-2006 0:00:00,"RENEE","Consultation",250
+29-5-2006 0:00:00,"GARVITA","Consultation/Vaccination",650
+29-5-2006 0:00:00,"B/0 POONAM","Consultation/Vaccination",650
+7-6-2006 0:00:00,"NIKITA","Consultation",61
+12-6-2006 0:00:00,"B/O SAPNA","Consultation",200
+14-6-2006 0:00:00,"B/O KUMARI","Vaccination",500
+24-6-2006 0:00:00,"TUSHAR  RUHELA","Consultation/Vaccination",850
+31-5-2006 0:00:00,"B/O CHARAN","Consultation/Vaccination",500
+31-5-2006 0:00:00,"ALI","Consultation",250
+29-7-2006 0:00:00,"SAMAN","Consultation/Vaccination",1500
+29-7-2006 0:00:00,"SANA","Consultation/Vaccination",300
+29-7-2006 0:00:00,"VASE4GAR","Consultation/Vaccination",700
+31-7-2006 0:00:00,"JAI","Consultation/Vaccination",1000
+5-8-2006 0:00:00,"B/O USHA","Consultation",61
+5-8-2006 0:00:00,"RAHUL","Consultation/Vaccination",2450
+7-8-2006 0:00:00,"NIKITA","Consultation/Vaccination",1500
+7-8-2006 0:00:00,"CHERRY","Consultation",250
+7-8-2006 0:00:00,"BATOOL ZEHRA","Consultation",250
+11-8-2006 0:00:00,"ANJNI","Consultation",250
+18-8-2006 0:00:00,"HARDEEP (GMC )","Consultation/Vaccination",1400
+23-8-2006 0:00:00,"VAIBHAV","Consultation",250
+25-8-2006 0:00:00,"SIMMER","Consultation/Vaccination",1000
+26-8-2006 0:00:00,"SHAURYA","Consultation/Vaccination",1500
+9-9-2006 0:00:00,"MAYANK","Consultation/Vaccination",1100
+9-9-2006 0:00:00,"RAHUL","Consultation/Vaccination",350
+9-9-2006 0:00:00,"DIVYAM","Consultation/Vaccination",1000
+7-9-2006 0:00:00,"TENZING","Consultation/Vaccination",700
+7-9-2006 0:00:00,"B/O DEEPALI","Consultation/Vaccination",800
+14-9-2006 0:00:00,"NAVISHA","Consultation/Vaccination",300
+16-9-2006 0:00:00,"DAKSH","Consultation/Vaccination",650
+13-9-2006 0:00:00,"B/O SUNITA ","Consultation/Vaccination",450
+19-9-2006 0:00:00,"MOHINI","Consultation/Vaccination",650
+19-9-2006 0:00:00,"JAYA","Consultation/Vaccination",650
+19-9-2006 0:00:00,"B/0 VANDANA","Vaccination",500
+19-9-2006 0:00:00,"CHITRAL","Consultation/Vaccination",600
+19-9-2006 0:00:00,"GYANENDER","Consultation/Vaccination",600
+27-9-2006 0:00:00,"KRISHNA","Consultation",250
+27-9-2006 0:00:00,"B/O CHHAVI  1ST","Consultation",150
+27-9-2006 0:00:00,"B/O CHHAVI   2 ND","Consultation",150
+27-9-2006 0:00:00,"B/O PRERNA","Consultation/Vaccination",550
+4-10-2006 0:00:00,"VEDICA","Consultation",250
+3-10-2006 0:00:00,"PARTH","Consultation/Vaccination",300
+3-10-2006 0:00:00,"VAIBHAV","Consultation/Vaccination",300
+7-10-2006 0:00:00,"ANANDITA","Consultation",250
+7-10-2006 0:00:00,"SANKYA","Consultation/Vaccination",600
+12-10-2006 0:00:00,"YATIN (SPH)","Consultation/Vaccination",1500
+16-10-2006 0:00:00,"RINCHEN (SPH)","Consultation/Vaccination",600
+16-10-2006 0:00:00,"TENZING","Consultation/Vaccination",600
+16-10-2006 0:00:00,"B/O LAISA","Vaccination",500
+17-10-2006 0:00:00,"ARNAV","Consultation/Vaccination",800
+23-10-2006 0:00:00,"DEVANSHI","Consultation/Vaccination",1500
+18-9-2006 0:00:00,"CHITRAL","Consultation/Vaccination",650
+26-10-2006 0:00:00,"CHITRAL","Consultation/Vaccination",550
+28-10-2006 0:00:00,"DIYA","Consultation",250
+11-11-2006 0:00:00,"ALI","Consultation/Vaccination",1500
+11-11-2006 0:00:00,"B/O SUNITA","Vaccination",600
+18-11-2006 0:00:00,"ANANDITA","Consultation/Vaccination",250
+18-11-2006 0:00:00,"DIYA","Consultation/Vaccination",1100
+20-11-2006 0:00:00,"RYTHM","Vaccination",1500
+2-12-2006 0:00:00,"CHITRAL","Consultation/Vaccination",800
+4-12-2006 0:00:00,"SIMARJEET","Vaccination",1500
+9-12-2006 0:00:00,"F/C REENA","Consultation/Vaccination",950
+13-12-2006 0:00:00,"TUSHAR","Vaccination",1300
+14-12-2006 0:00:00,"DEVEN","Vaccination",600
+5-1-2007 0:00:00,"ANSH ","Consultation/Vaccination",1250
+6-1-2007 0:00:00,"NAVYA","Consultation/Vaccination",300
+29-1-2007 0:00:00,"PALASH","Vaccination",1500
+5-2-2007 0:00:00,"SARIA MAQBOOL","Consultation/Vaccination",450
+5-2-2007 0:00:00,"GAZANFER","Consultation/Vaccination",450
+12-2-2007 0:00:00,"YANA","Consultation/Vaccination",1000
+23-2-2007 0:00:00,"KARTIK GMC","Consultation/Vaccination",1350
+23-2-2007 0:00:00,"RAHUL GMC","Vaccination",1400
+24-2-2007 0:00:00,"CHITRAL","Consultation/Vaccination",300
+28-2-2007 0:00:00,"B/O RAGINI","Consultation/Vaccination",450
+5-3-2007 0:00:00,"B/O VINEETA","Vaccination",400
+5-3-2007 0:00:00,"GAZANFAR","Consultation/Vaccination",1150
+5-3-2007 0:00:00,"SARIYA","Consultation/Vaccination",1150
+28-3-2007 0:00:00,"B/O SAMREEN","Consultation/Vaccination",450
+28-3-2007 0:00:00,"B/O PALLAVI","Consultation/Vaccination",450
+28-3-2007 0:00:00,"B/O KUMUD","Consultation/Vaccination",450
+2-4-2007 0:00:00,"INDERNEEL","Consultation/Vaccination",650
+7-4-2007 0:00:00,"AKASH","Vaccination",1000
+16-4-2007 0:00:00,"AKSHAT MEHRA","Consultation",300
+16-4-2007 0:00:00,"ISHA ARORA","Consultation",250
+18-4-2007 0:00:00,"CHITRAL GUPTA","Consultation",250
+21-4-2007 0:00:00,"DILSHAAD","Consultation",200
+26-4-2007 0:00:00,"YESHI DOLMA","Consultation/Vaccination",2000
+26-4-2007 0:00:00,"NORBU DRADUL","Consultation/Vaccination",2500
+26-4-2007 0:00:00,"JIGME TOPGYAL","Consultation/Vaccination",1500
+30-4-2007 0:00:00,"ANANYA","Consultation",300
+30-4-2007 0:00:00,"SRIYAH","Consultation",300
+2-5-2007 0:00:00,"GAJANFER","Consultation/Vaccination/IPV",1100
+2-5-2007 0:00:00,"SARIYA","Consultation/Vaccination/IPV",1100
+14-5-2007 0:00:00,"ISHITA","Consultation/Vaccination",1300
+14-5-2007 0:00:00,"MANMEET","Consultation/Vaccination",600
+23-5-2007 0:00:00,"guriya","cons/vaccine mmr",250
+24-5-2007 0:00:00,"SANYAM","Vaccination",1800
+11-6-2007 0:00:00,"ANSH","Consultation/Vaccination",600
+11-6-2007 0:00:00,"ISHI","Consultation/Vaccination",800
+14-6-2007 0:00:00,"SHIVANG","Consultation/Vaccination",750
+17-6-2007 0:00:00,"SWARN","Consultation/Vaccination",1200
+15-6-2007 0:00:00,"MISHIKA (GMC)","Vaccination",1000
+14-6-2007 0:00:00,"B/O SHALINI","Consultation/Vaccination",450
+18-6-2007 0:00:00,"SHIVANSH","Consultation/Vaccination",600
+18-6-2007 0:00:00,"SONU","Consultation/Vaccination",250
+20-6-2007 0:00:00,"B/O VERTIKA","Consultation/Vaccination",450
+4-7-2007 0:00:00,"AVNEET","Consultation/Vaccination",1250
+4-7-2007 0:00:00,"ANVIKASHA","Vaccination",1000
+5-7-2007 0:00:00,"SONAM","Consultation/Vaccination",2000
+7-7-2007 0:00:00,"PRAGYA","Vaccination",1500
+9-7-2007 0:00:00,"MADHAV","Consultation/Vaccination",2250
+9-7-2007 0:00:00,"TENZING","Consultation/Vaccination",650
+9-7-2007 0:00:00,"YANA","Consultation/Vaccination",350
+11-7-2007 0:00:00,"KHUSHI","Consultation/Vaccination",2000
+11-7-2007 0:00:00,"SHIVANG","Consultation/Vaccination",350
+13-7-2007 0:00:00,"AVNEET  GMC","Vaccination",1000
+13-7-2007 0:00:00,"HARNEET (GMC)","Vaccination",1000
+13-7-2007 0:00:00,"B/O SHEELU","Vaccination",550
+14-7-2007 0:00:00,"TIYA GUPTA","Consultation",250
+16-7-2007 0:00:00,"ARNAV","Consultation",300
+16-7-2007 0:00:00,"SON OF MRS KAVITA","Vaccination",1250
+21-7-2007 0:00:00,"MRINALINI","Vaccination",1250
+21-7-2007 0:00:00,"DHRUV","Consultation/Vaccination",500
+21-7-2007 0:00:00,"YESHI DOLMA","Consultation/Vaccination",1500
+21-7-2007 0:00:00,"NORBU DRAUL","Consultation/Vaccination",350
+18-7-2007 0:00:00,"B/O ASHA","Consultation/Vaccination",450
+25-7-2007 0:00:00,"SIMERANJEET","Vaccination",1000
+25-7-2007 0:00:00,"DIVNEET (GMC)","Vaccination",1000
+30-7-2007 0:00:00,"SURYANSH","Consultation/Vaccination",550
+4-8-2007 0:00:00,"VANDITA","Vaccination",1000
+4-8-2007 0:00:00,"RHEA","Consultation",300
+4-8-2007 0:00:00,"SHOURYA","Consultation/Vaccination",350
+6-8-2007 0:00:00,"PRATISHTHA","Consultation/Vaccination",600
+6-8-2007 0:00:00,"TENZING","Consultation/Vaccination",300
+29-5-2007 0:00:00,"RASHA","Consultation/Vaccination",950
+14-8-2007 0:00:00,"B/O PRIYADARSHNI","Consultation/Vaccination",450
+21-8-2007 0:00:00,"MAYANK ( KRISHNA )","Consultation/Vaccination",200
+21-8-2007 0:00:00,"B/0PHOOLWATI","Consultation/Vaccination",450
+21-8-2007 0:00:00,"B/0 KRISHNA","Consultation/Vaccination",450
+25-8-2007 0:00:00,"NISHANT ( NANGLOI )","Consultation/Vaccination",300
+31-8-2007 0:00:00,"ASHMIT ( GMC )","CONSULTATION/VACCINATION",800
+31-8-2007 0:00:00,"GURMALE KAUR ( GMC )","Vaccination",650
+31-8-2007 0:00:00,"ANVIKSHA","Consultation",10
+1-9-2007 0:00:00,"SHIVANSH","Consultation/Vaccination",200
+1-9-2007 0:00:00,"ABHINAV","Vaccination",500
+1-9-2007 0:00:00,"MRINALINI","Vaccination",100
+1-9-2007 0:00:00,"DHRUV","Vaccination",500
+3-9-2007 0:00:00,"NUPUR","Consultation/Vaccination",1000
+5-9-2007 0:00:00,"B/O MEENAKSHI","Consultation/Vaccination",400
+5-9-2007 0:00:00,"B/O BHAWNA","Consultation/Vaccination",400
+5-9-2007 0:00:00,"LIABA ","Consultation/Vaccination",250
+8-9-2007 0:00:00,"JASMINE","Consultation/Vaccination",600
+12-9-2007 0:00:00,"JISA","Vaccination",1250
+21-9-2007 0:00:00,"GuNEET","Consultation/Vaccination",150
+21-9-2007 0:00:00,"SAHEJ NOOR  (GMC )","Consultation/Vaccination",150
+12-11-2007 0:00:00,"ISHITA","Vaccination",1000
+29-11-2007 0:00:00,"MANSINGH","Consultation",300
+3-12-2007 0:00:00,"MANMEET ","Consultation/Vaccination",1400
+3-12-2007 0:00:00,"TANMAY","Consultation/Vaccination",1500
+3-12-2007 0:00:00,"RYTHYM","Vaccination",1000
+7-12-2007 0:00:00,"HARDEET","Consultation/Vaccination",2300
+8-12-2007 0:00:00,"AANKUSH","Consultation/Vaccination",200
+8-12-2007 0:00:00,"ANSN","consultation/Vaccination",150
+6-11-2007 0:00:00,"B/O SAPNA","Consultation/Vaccination",500
+12-12-2007 0:00:00,"VASEEGAR","Consultation/Vaccination",350
+17-12-2007 0:00:00,"ISHITA","Vaccination",1500
+15-12-2007 0:00:00,"HARSHITA  (NANGLOI )","Vaccination",1400
+14-12-2007 0:00:00,"JAGJOT","Consultation/Vaccination",1800
+17-12-2007 0:00:00,"SAURABH","Consultation/Vaccination",200
+19-12-2007 0:00:00,"SAMIRA","Consultation/Vaccination",400
+20-12-2007 0:00:00,"SHUBHAM","Vaccination",1000
+20-12-2007 0:00:00,"TENZING","Consultation/Vaccination",200
+24-12-2007 0:00:00,"TENZING (SPH )","Vaccination",1500
+24-12-2007 0:00:00,"VANISH","Consultation/Vaccination",200
+24-12-2007 0:00:00,"ANIK","Consultation/Vaccination",400
+24-12-2007 0:00:00,"B/O LATA","Consultation/Vaccination",400
+29-12-2007 0:00:00,"SANJANA","Consultation",300
+1-1-2008 0:00:00,"VANSHIKA","Vaccination",1000
+5-1-2008 0:00:00,"PRAJEET","Consultation/Vaccination",3350
+31-12-2007 0:00:00,"M/C ILA","Consultation/Vaccination",400
+14-1-2008 0:00:00,"TANMAY","Vaccination",1000
+14-1-2008 0:00:00,"CHIRAG","Vaccination",1000
+18-1-2008 0:00:00,"MEHARBAN  (GMC)","Vaccination",1500
+18-1-2008 0:00:00,"GURSEHAJ  (GMC)","Consultation/Vaccination",600
+15-1-2008 0:00:00,"B/O ARCHANA","Consultation/Vaccination",500
+30-1-2008 0:00:00,"KHUSHI","Vaccination",1250
+30-1-2008 0:00:00,"JAHNVI","Consultation/Vaccination",300
+30-1-2008 0:00:00,"MAYANK (OPD NANGLOI)","Consultation/Vaccination",200
+2-2-2008 0:00:00,"PRIYANKA","Consultation/Vaccination",300
+4-2-2008 0:00:00,"AARAV","Vaccination",2300
+11-2-2008 0:00:00,"NAGWANG","Vaccination",2000
+14-2-2008 0:00:00,"FAIK","Consultation",300
+19-2-2008 0:00:00,"DRONA","Vaccination",300
+27-2-2008 0:00:00,"RIMJHIM","Consultation/Vaccination",1500
+10-3-2008 0:00:00,"SONU","Vaccination",1000
+21-3-2008 0:00:00,"SAKSHAM","Consultation/Vaccination",2300
+1-4-2008 0:00:00,"HARSHIT ( NANGLOI )","Consultation/Vaccination",500
+12-4-2008 0:00:00,"RIA","Vaccination",1000
+15-4-2008 0:00:00,"SHWETA","Consultation/Vaccination",1300
+28-4-2008 0:00:00,"KHUSHI","Vaccination",1000
+21-9-2007 0:00:00,"HARSH NOOR  (GMC )","Consultation/Vaccination",150
+20-9-2007 0:00:00,"B/O HEENA","Consultation/Vaccination",600
+22-9-2007 0:00:00,"NEEL GUPTA","Consultation",300
+24-9-2007 0:00:00,"BHUVAN CHAND JOSHI","Consultation/Vaccination",300
+24-9-2007 0:00:00,"B/O KUNLAY CHOKEY","Consultation/Vaccination",400
+26-9-2007 0:00:00,"MUKUL (NANGLOI )","Consultation/Vaccination",400
+26-9-2007 0:00:00,"MANSI (NANGLOI )","Consultation/Vaccination",150
+26-9-2007 0:00:00,"MIHIR (NANGLOI)","Consultation/Vaccination",150
+26-9-2007 0:00:00,"B/O SANJEETA","Consultation/Vaccination",450
+29-9-2007 0:00:00,"KHUSHI","Consultation",300
+6-10-2007 0:00:00,"DHRUV","Vaccination",500
+6-10-2007 0:00:00,"MRINALINI","Vaccination",900
+6-10-2007 0:00:00,"B/O PREETI ","Consultation/Vaccination",250
+5-10-2007 0:00:00,"TAMANPREET (GMC)","Consultation/Vaccination",200
+8-10-2007 0:00:00,"PRAJWAL","Vaccination",1250
+15-10-2007 0:00:00,"PRATISHTHA","Consultation/Vaccination",550
+17-10-2007 0:00:00,"KAVLEEN (gmc )","Consultation/Vaccination",300
+17-10-2007 0:00:00,"B/O INDERDEEP (GMC )","Consultation/Vaccination",400
+17-10-2007 0:00:00,"B/O GEETA ( GMC )","Consultation/Vaccination",600
+19-10-2007 0:00:00,"B/O SHRUTI SHERAWAT","Consultation/Vaccination",1400
+19-10-2007 0:00:00,"B/O TRANPREET (GMC )","Consultation/Vaccination",400
+20-10-2007 0:00:00,"SARTHAK","Consultation",250
+20-10-2007 0:00:00,"KHUSHI","Consultation",300
+22-10-2007 0:00:00,"MADHAV","Consultation/Vaccination",1300
+24-10-2007 0:00:00,"PRERNA","Consultation/Vaccination",650
+24-10-2007 0:00:00,"SAMARJEET GMC","Consultation/Vaccination",600
+24-10-2007 0:00:00,"MEHARBAN","Vaccination",1000
+31-10-2007 0:00:00,"ABHIRAJ","Consultation",300
+31-10-2007 0:00:00,"SIMMERJEET (GMC)","Consultation/Vaccination",200
+31-10-2007 0:00:00,"BHAWNA ( NANGLOI)","Consultation/Vaccination",100
+30-10-2007 0:00:00,"SARTH (NANGLOI)","Consultation/Vaccination",100
+2-11-2007 0:00:00,"AVLEEN ( GMC )","Consultation/Vaccination",300
+2-11-2007 0:00:00,"RIA","Consultation/Vaccination",400
+13-11-2007 0:00:00,"RIMJHIM","Consultation/Vaccination",1500
+16-11-2007 0:00:00,"GARIMA","Consultation/Vaccination",1250
+16-11-2007 0:00:00,"B/O JAGMEET (GMC)","Consultation/Vaccination",400
+16-11-2007 0:00:00,"ASHMEET (GMC)","Consultation/Vaccination",600
+24-11-2007 0:00:00,"ALI","Consultation/Vaccination",1200
+24-11-2007 0:00:00,"KHTIZA","Consultation/Vaccination",750
+28-4-2008 0:00:00,"TENZING","Consultation/Vaccination",1500
+5-5-2008 0:00:00,"PRITHU","Consultation/Vaccination",600
+6-5-2008 0:00:00,"TANMAY","Consultation/Vaccination",300
+7-5-2008 0:00:00,"MADHULI","Consultation/Vaccination",450
+8-5-2008 0:00:00,"VANSHIKA","Consultation/Vaccination",600
+24-5-2008 0:00:00,"NYSA","Consultation/Vaccination",400
+20-5-2008 0:00:00,"B/O SAKSHI GARG","Consultation/Vaccination",450
+20-5-2008 0:00:00,"B/O SAKSHI GARG","Consultation/Vaccination",450
+30-5-2008 0:00:00,"PARTH","Consultation",150
+4-6-2008 0:00:00,"MUDIT","Consultation",200
+12-6-2008 0:00:00,"B/O SHRADDHA","Consultation/Vaccination",500
+17-6-2008 0:00:00,"B/O SHRADDHA","Consultation",300
+21-6-2008 0:00:00,"NAISHA","Consultation",300
+2-7-2008 0:00:00,"ANANYA","Consultation/Vaccination",1100
+5-7-2008 0:00:00,"AKSHIT","Vaccination",1500
+1-7-2008 0:00:00,"M/C ANJU","Consultation/Vaccination",450
+19-7-2008 0:00:00,"TANUSH","Consultation/Vaccination",1900
+21-7-2008 0:00:00,"AKSHITA","Consultation/Vaccination",2600
+21-8-2008 0:00:00,"NAVYA","Consultation",200
+13-9-2008 0:00:00,"RACHIT","Consultation/Vaccination",1300
+17-9-2008 0:00:00,"TENZING","Consultation/Vaccination",300
+17-9-2008 0:00:00,"B/O SWATI","Consultation",61
+22-9-2008 0:00:00,"MAHIMA MITRA","Consultation/Vaccination",400
+22-9-2008 0:00:00,"MAHIMA MITRA","Consultation/Vaccination",400
+20-9-2008 0:00:00,"VANSHIKA","VAXIGRIP",700
+24-9-2008 0:00:00,"ARNAV","Consultation",300
+6-10-2008 0:00:00,"AASHI","Consultation/Vaccination",400
+11-10-2008 0:00:00,"ASHIMA","Consultation",300
+13-10-2008 0:00:00,"TENZING","Vaccination",1500
+3-11-2008 0:00:00,"M/C ARCHANA DEVI","Consultation/Vaccination",600
+13-11-2008 0:00:00,"MRINALINI","Vaccination",900
+14-11-2008 0:00:00,"WARDHAN","Consultation",150
+15-11-2008 0:00:00,"CHONYI SONGMO","Consultation",300
+17-11-2008 0:00:00,"JAHNVI","Consultation/Vaccination",1450
+18-11-2008 0:00:00,"DIVYA","Consultation",300
+20-11-2008 0:00:00,"PRAGATI","Vaccination",1500
+10-12-2008 0:00:00,"HARSH (NANGLOI)","Vaccination",1500
+10-12-2008 0:00:00,"YASH (NANGLOI)","Vaccination",1000
+10-12-2008 0:00:00,"GUNJAN","Consultation/Vaccination",300
+15-12-2008 0:00:00,"B/O MONIKA","Consultation",300
+26-12-2008 0:00:00,"MARIE","Consultation/Vaccination",400
+27-12-2008 0:00:00,"IZHAN","Consultation",300
+27-12-2008 0:00:00,"AASHISH","Consultation/Vaccination",1500
+4-7-2008 0:00:00,"AASHISH","Consultation/Vaccination",1800
+17-5-2008 0:00:00,"aashish","VACCINATION",1200
+1-1-2009 0:00:00,"KARAN","Vaccination",1400
+1-1-2009 0:00:00,"B/O KHOOSHBU","Vaccination",100
+3-11-2008 0:00:00,"ABHINAV","Vaccination",500
+3-11-2008 0:00:00,"KHUSH","Consultation/Vaccination",400
+10-1-2009 0:00:00,"NAMAN (NANGLOI)","Consultation/Vaccination",300
+10-1-2009 0:00:00,"AAYUSH (NANGLOI)","Consultation/Vaccination",300
+15-1-2009 0:00:00,"KHENRAD ","Consultation/Vaccination",400
+15-1-2009 0:00:00,"TENSING PEMA","Consultation/Vaccination",1500
+17-1-2009 0:00:00,"BHUMIKA","Consultation/Vaccination",1100
+17-1-2009 0:00:00,"HARSH (NANGLOI)","Consultation/Vaccination",1300
+17-1-2009 0:00:00,"GUNJAN (NANGLOI)","Consultation/Vaccination",800
+17-1-2009 0:00:00,"CHINU (NANGLOI)","Consultation/Vaccination",400
+21-1-2009 0:00:00,"VAIBHAV","Consultation/Vaccination",1300
+22-1-2009 0:00:00,"TENZING ","Consultation",300
+28-1-2009 0:00:00,"JASMINE","Consultation/Vaccination",6500
+3-2-2009 0:00:00,"TSERING","Consultation/Vaccination",1500
+7-2-2009 0:00:00,"SHRADHA","Consultation/Vaccination",250
+9-2-2009 0:00:00,"SURYANSH","Consultation/Vaccination",1500
+11-2-2009 0:00:00,"ADHYAN PANDEY","Consultation",300
+14-2-2009 0:00:00,"MARIA","Consultation",300
+14-2-2009 0:00:00,"ADHYAN","Consultation",300
+19-2-2009 0:00:00,"DASEL","Consultation",300
+20-2-2009 0:00:00,"PRAJWAL","Vaccination",1000
+28-2-2009 0:00:00,"UDIT","Consultation/Vaccination",1500
+28-2-2009 0:00:00,"G.BHASKAR","Consultation",300
+28-2-2009 0:00:00,"HARSHIT (NANGLOI)","Vaccination",1000
+2-3-2009 0:00:00,"VANISH","Vaccination",1500
+7-3-2009 0:00:00,"ARJUN","Consultation/Vaccination",300
+9-3-2009 0:00:00,"B/OSITU","Consultation/Vaccination",1500
+12-3-2009 0:00:00,"MINI","Consultation/Vaccination",1800
+16-4-2015 0:00:00,"ANANYA SHUKLA","Consultation",700
+23-4-2015 0:00:00,"AMAN","Consultation/Vaccination",4300
+25-4-2015 0:00:00,"B/O POOJA","Consultation",700
+25-4-2015 0:00:00,"KESAR","Consultation/Vaccination",3800
+23-4-2015 0:00:00,"SANVI BINDAL","Consultation",700
+29-4-2015 0:00:00,"SANVI BINDAL","Consultation",700
+2-5-2015 0:00:00,"ARPITA","Consultation",700
+6-5-2015 0:00:00,"ANSH","Consultation",700
+9-5-2015 0:00:00,"UTKARSH","Consultation",700
+9-5-2015 0:00:00,"SANVI","Consultation",700
+11-5-2015 0:00:00,"M/C CHITWAN","Consultation",700
+18-5-2015 0:00:00,"ATHARV","Consultation",700
+19-5-2015 0:00:00,"TEJUS","Consultation/Vaccination",3100
+16-5-2015 0:00:00,"BHAVYA","Consultation",700
+4-6-2015 0:00:00,"SAKSHI","Consultation/Vaccination",3000
+10-6-2015 0:00:00,"TVISHAA LOHANI","Consultation/Vaccination",4300
+15-6-2015 0:00:00,"ATHARV","Consultation/Vaccination",1800
+22-6-2015 0:00:00,"PARAM GUPTA","Consultation/Vaccination",1600
+22-6-2015 0:00:00,"DR.SHEKHAR","VACCINATION",1
+22-6-2015 0:00:00,"MITTAL JEE","VACCINATION",1
+22-6-2015 0:00:00,"KHUSHBOO","VACCINATION",1
+27-6-2015 0:00:00,"CATHERINE.L.INFIMATE","Consultation/Vaccination",800
+27-6-2015 0:00:00,"EMMANUEL.L.INFIMATE","Vaccination",800
+29-6-2015 0:00:00,"PRIYAL","Consultation",700
+1-7-2015 0:00:00,"PRIYAL","Consultation",700
+3-7-2015 0:00:00,"MALANI","Vaccination",1800
+3-7-2015 0:00:00,"MRS MALANI","Vaccination",700
+20-7-2015 0:00:00,"KAIRAV GUPTA","Consultation",700
+21-7-2015 0:00:00,"KAIRAV GUPTA","Consultation",700
+21-7-2015 0:00:00,"ABHAY","Consultation",700
+25-7-2015 0:00:00,"ARYAA","Consultation/Vaccination",3400
+27-7-2015 0:00:00,"JAGRITI","Consultation/Vaccination",1900
+2-7-2015 0:00:00,"DR.SHEKHAR AGARWAL","Vaccination",800
+5-8-2015 0:00:00,"AADWIK","Consultation/Vaccination",3100
+1-8-2015 0:00:00,"VARUN","Consultation/Vaccination",4900
+10-8-2015 0:00:00,"AKANSHA","Consultation/Vaccination",3000
+13-8-2015 0:00:00,"ANTRIKSH","Consultation/Vaccination",2500
+28-8-2015 0:00:00,"B/O SHILPI","Consultation",700
+1-9-2015 0:00:00,"RAMANPREET","Vaccination",2800
+2-9-2015 0:00:00,"KUDRAT","Vaccination",2800
+2-9-2015 0:00:00,"RAMANPREET","Vaccination",2800
+11-9-2015 0:00:00,"BHASKAR","Consultation/Vaccination",2500
+12-9-2015 0:00:00,"B/O SHWETA TIWARI 2","Consultation/Vaccination",600
+12-9-2015 0:00:00,"B/O SHWETA TIWARI 1","Consultation/Vaccination",600
+14-9-2015 0:00:00,"AYAAN ANSARI","Consultation/Vaccination",2500
+7-9-2015 0:00:00,"SIDRA","Consultation/Vaccination",4000
+7-9-2015 0:00:00,"B/O RUBY TWIN 2","Consultation/Vaccination",3400
+7-9-2015 0:00:00,"B/O RUBY TWIN 1","VACCINATION",1400
+9-9-2015 0:00:00,"PARI","Consultation/Vaccination",2400
+29-8-2015 0:00:00,"RITIKA AGARWAL","Consultation/Vaccination",3000
+25-9-2015 0:00:00,"B/O ANJU","Consultation/Vaccination",600
+26-9-2015 0:00:00,"ADVAIT SHARMA","Consultation",700
+26-10-2015 0:00:00,"B/O ARTY ","Consultation",700
+26-10-2015 0:00:00,"MYIRA","Vaccination",800
+23-9-2015 0:00:00,"ANIKA","Consultation",700
+5-11-2015 0:00:00,"AARAV","Consultation",700
+9-11-2015 0:00:00,"AARAV","Consultation",700
+12-11-2015 0:00:00,"B/O NEHA","Consultation/Vaccination",1000
+21-11-2015 0:00:00,"AARAV","Consultation",700
+31-8-2015 0:00:00,"DOMA","Consultation/Vaccination",2500
+9-11-2015 0:00:00,"DOMA","Consultation/Vaccination",1800
+23-11-2015 0:00:00,"MANAV","Consultation",700
+28-11-2015 0:00:00,"KUSHAGRA","Consultation/Vaccination",1500
+5-12-2015 0:00:00,"DHWAWAL","Consultation/Vaccination",4000
+5-12-2015 0:00:00,"RANI GUPTA","Consultation/Vaccination",1300
+5-12-2015 0:00:00,"RACHNA JASROY","Consultation/Vaccination",1300
+1-9-2015 0:00:00,"DR. SHEKHAR","Vaccination",600
+1-9-2015 0:00:00,"DR. NIRMALA","Vaccination",600
+4-9-2015 0:00:00,"DR. PAWAN","Vaccination",600
+5-9-2015 0:00:00,"DR. PAWAN","Vaccination",600
+5-9-2015 0:00:00,"DR. RANDEEP","Vaccination",600
+5-9-2015 0:00:00,"DR. RANDEEPS WIFE","Vaccination",600
+5-9-2015 0:00:00,"DR. RANDEEPS SON","Vaccination",600
+5-9-2015 0:00:00,"DR. RANDEEPS SON ","Vaccination",600
+2-1-2016 0:00:00,"REYANSH","Consultation",700
+4-9-2015 0:00:00,"RITIKA","Consultation/Vaccination",3200
+22-12-2015 0:00:00,"RITIKA","Consultation/Vaccination",3200
+16-1-2016 0:00:00,"VRAJ SOOD","Consultation/Vaccination",2500
+30-1-2016 0:00:00,"B/O RENU","Consultation/Vaccination",600
+30-1-2016 0:00:00,"REVA","Consultation",700
+8-2-2016 0:00:00,"AARAV","Consultation",700
+6-1-2016 0:00:00,"LAKSHEY","Consultation/Vaccination",2400
+6-1-2016 0:00:00,"SAUMYA","Consultation/Vaccination",1200
+6-1-2016 0:00:00,"SAUMYA","Consultation/Vaccination",4200
+20-2-2016 0:00:00,"B/O ARSIDA BANO","Consultation/Vaccination",600
+28-1-2016 0:00:00,"TANMAY","Consultation/Vaccination",2500
+24-2-2016 0:00:00,"BHAWYA BANSAL","Consultation",700
+24-2-2016 0:00:00,"B/O SONI","Consultation/Vaccination",500
+6-1-2016 0:00:00,"LAKSHAY","Consultation/Vaccination",2400
+29-2-2016 0:00:00,"UNNATI","Consultation/Vaccination",2000
+2-3-2016 0:00:00,"/O SONI","Consultation",700
+7-3-2016 0:00:00,"DOLMA","Consultation/Vaccination",2400
+14-3-2016 0:00:00,"PRANJAL","Consultation",700
+14-3-2016 0:00:00,"YAKSH ","Consultation",700
+20-11-2015 0:00:00,"KUDRAT","Consultation/Vaccination",3000
+20-3-2016 0:00:00,"KUDRAT","Consultation/Vaccination",3000
+22-3-2016 0:00:00,"PARI","Consultation",700
+28-3-2016 0:00:00,"PARI","Consultation",700
+29-3-2016 0:00:00,"KARAN","Consultation",700
+14-4-2016 0:00:00,"RUBY","Consultation",800
+20-4-2016 0:00:00,"HARSH LOHIYA","Consultation",700
+1-6-2016 0:00:00,"LAKSHEY","Vaccination",1800
+3-6-2016 0:00:00,"SIDDHANT","Consultation",800
+8-6-2016 0:00:00,"SAMIKSHA HANS","Consultation",800
+18-6-2016 0:00:00,"B/O ANUSUIYA","Consultation",800
+20-6-2016 0:00:00,"GEETA MADHAV GALI","Consultation/Vaccination",2700
+26-6-2016 0:00:00,"ABC","Consultation/Vaccination",2600
+16-6-2016 0:00:00,"ABC","Consultation/Vaccination",5400
+27-4-2016 0:00:00,"RITIKA","Consultation/Vaccination",3000
+30-6-2016 0:00:00,"MEHAK","Consultation/Vaccination",3300
+20-7-2016 0:00:00,"GEETA MADHAV GALI","Consultation/Vaccination",1000
+4-8-2016 0:00:00,"RENU ARORA","Consultation/Vaccination",1600
+10-8-2016 0:00:00,"B/O MANISHA","Consultation",800
+9-8-2016 0:00:00,"CHIRAG ","Consultation",800
+11-8-2016 0:00:00,"DEVESH","Consultation/Vaccination",2300
+13-8-2016 0:00:00,"ARPIT","Consultation",800
+13-8-2016 0:00:00,"CHIRAG  AHLAWAT","Consultation",800
+19-8-2016 0:00:00,"BHAWNA","Consultation",800
+20-8-2016 0:00:00,"CHIRAG AHLAWAT","Consultation",800
+24-8-2016 0:00:00,"JENNYLA BHUTIA","Consultation/Vaccination",900
+10-6-2016 0:00:00,"SAMIRA","Consultation",800
+27-8-2016 0:00:00,"M/C DEEPTI","Consultation/Vaccination",800
+21-7-2016 0:00:00,"B/O DEEPTI","Consultation",800
+1-9-2016 0:00:00,"SHIVANI MISRA","Consultation",100
+1-9-2016 0:00:00,"SHIVANI MISRA","Vaccination",3000
+31-8-2016 0:00:00,"TALHA MUNNEER ","Consultation/Vaccination",5500
+31-8-2016 0:00:00,"TUBA TALHA ","Consultation/Vaccination",5500
+3-9-2016 0:00:00,"DR. SHEKHAR","Vaccination",3300
+12-9-2016 0:00:00,"ANSHUL","Consultation",800
+12-9-2016 0:00:00,"AAYUSH","Consultation",800
+14-9-2016 0:00:00,"DOLMA","Consultation/Vaccination",2000
+15-9-2016 0:00:00,"RUDRANSH","Consultation",800
+22-9-2016 0:00:00,"YASHIKA TEJA","Consultation/Vaccination",5500
+22-9-2016 0:00:00,"ISHWAR SINGH","Consultation",800
+1-10-2016 0:00:00,"B/O NEETU","Consultation/Vaccination",700
+1-10-2016 0:00:00,"ISHWAR SINGH","Consultation",800
+13-10-2016 0:00:00,"ATHARV","Consultation",800
+15-10-2016 0:00:00,"NITU","Consultation/Vaccination",3400
+4-8-2016 0:00:00,"DR. SHEKHAR AGARWAL","Consultation/Vaccination",1600
+9-8-2016 0:00:00,"DR. NIRMALA AGARWAL","Consultation/Vaccination",1600
+9-8-2016 0:00:00,"SURENDER GUPTA","Consultation/Vaccination",1600
+9-8-2016 0:00:00,"NITA GUPTA","Consultation/Vaccination",1600
+9-8-2016 0:00:00,"SHIKHAR GUPTA","Consultation/Vaccination",1600
+7-7-2016 0:00:00,"SHANAYA","Consultation/Vaccination",3900
+25-10-2016 0:00:00,"AARAV","Consultation",800
+25-10-2016 0:00:00,"B/OEENA V","Consultation",800
+27-10-2016 0:00:00,"ANVI GUPTA","Consultation",800
+7-11-2016 0:00:00,"MOKSH","Consultation/Vaccination",2700
+20-10-2016 0:00:00,"KUDRAT","VACCINATION",3000
+12-11-2016 0:00:00,"B/O SHRUTI","Consultation/Vaccination",800
+14-11-2016 0:00:00,"B/O AARTI","Consultation",800
+12-11-2016 0:00:00,"ANVI","Consultation",800
+15-11-2016 0:00:00,"ANVI","Consultation",800
+19-11-2016 0:00:00,"ANVI","Consultation",800
+24-10-2016 0:00:00,"ADITYA RAJ","Consultation",800
+18-11-2016 0:00:00,"ZEESHAN","Consultation",800
+8-11-2016 0:00:00,"ZEESHAN","Consultation",800
+25-11-2016 0:00:00,"ZEESHAN","Consultation",800
+2-12-2016 0:00:00,"ZEESHAN","Consultation",800
+10-12-2016 0:00:00,"MEHAK GOEL","Consultation/Vaccination",2600
+10-12-2016 0:00:00,"IBRAHIMMOHD ","Consultation",800
+17-12-2016 0:00:00,"NITU","Consultation/Vaccination",3400
+18-1-2017 0:00:00,"GEETA MADHAV GALI","Consultation/Vaccination",1000
+23-1-2017 0:00:00,"B/O KALPANA","Consultation",800
+2-2-2017 0:00:00,"ALESSANDRO LANZETTA","Consultation",1
+23-2-2017 0:00:00,"ADIT MITTAL","Consultation",800
+4-3-2017 0:00:00,"VAGISHA","Consultation/Vaccination",1700
+26-11-2016 0:00:00,"MAYRA","Consultation/Vaccination",6600
+27-3-2017 0:00:00,"JIA","Vaccination",5800
+3-4-2017 0:00:00,"LANZETTA  ALESSANDRO","Consultation",1
+1-4-2017 0:00:00,"SOHAN","Vaccination",2300
+29-4-2017 0:00:00,"JIA","Consultation/Vaccination",4000
+8-2-2017 0:00:00,"PARI","Consultation/Vaccination",2200
+29-4-2017 0:00:00,"MOHD SAMI","Consultation",800
+12-7-2017 0:00:00,"SHREYA BANSAL","Consultation/Vaccination",5800
