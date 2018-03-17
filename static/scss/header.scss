@@ -143,9 +143,9 @@ html {
                 width: auto;
                 min-width:100px;
                 text-align: left;
-                padding:0 15px;
+                padding:0 0 0 15px;
                 position:relative;
-                span {
+                a, span {
                     font-family: "Droid Sans";
                     color: $color-white;
                     text-decoration: none;
@@ -158,10 +158,11 @@ html {
                     transition:all 0.2s ease-in-out;
                     top:calc(100%);
                     left:0px;
-                    width:150px;
+                    width:200px;
                     background-color:#404040;
                     padding:10px 15px;
                     text-align:left;
+                    z-index:2;
                     
                     &:before {
                         content:'';
@@ -176,6 +177,47 @@ html {
                         padding:0;
                         li {
                             text-align:left;
+                            a {
+                                font-size:13px;
+                                color:$color-white;
+                            }
+                            
+                            &.next-tier {
+                                position:relative;
+                            }
+                            .minimenu {
+                                transition:0.2s ease-in-out;
+                                opacity:0;
+                                visibility:hidden;
+                                position:absolute;
+                                top:0;
+                                left:calc(100% + 15px);
+                                background-color:#666;
+                                width:150px;
+                                z-index:3;
+
+                                &:after {
+                                    position:absolute;
+                                    content:'';
+                                    border-right:10px solid #666;
+                                    border-top:10px solid transparent;
+                                    border-bottom:10px solid transparent;
+                                    top:10px;
+                                    left:-10px;
+                                }
+
+                                ul {
+                                    padding:0 15px;
+                                }
+                            }
+
+                            &:hover {
+
+                                .minimenu {
+                                    opacity:1;
+                                    visibility:visible;    
+                                }
+                            }
                         }
                     }
                 }

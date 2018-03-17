@@ -1,8 +1,12 @@
 {% include 'first_app/header.html' %}
 
     <div class="page-content">
-		<h1>Hello this is index.html</h1>
-		{{ insert_me }}
+		<div class="wrapper left sidebar">
+			{% include 'first_app/patient_list.html' %}
+		</div>
+		<div class="wrapper right content">
+			<h1>Hello this is index.html</h1>
+		</div>
     </div>
 
 {% include 'first_app/footer.html' %}
