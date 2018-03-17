@@ -1,0 +1,3 @@
+first_app/migrations/
+first_app/*.pyc
+**/*.pyc
