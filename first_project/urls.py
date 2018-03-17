@@ -23,5 +23,4 @@ urlpatterns = [
     url(r'^first_app/',include('first_app.urls')),
     url(r'^formpage/',views.form_name_view,name='form_name'),
     url(r'^admin/', admin.site.urls),
-
 ]
