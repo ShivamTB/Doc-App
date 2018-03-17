@@ -1,0 +1,51 @@
+ - Patient
+    - New Registration
+    - Update information
+    - Unregistered Patients
+     - Visit
+     - forc3C
+
+  - Masters
+   - Sign Masters
+   - Symptoms
+   - Diagonsis
+   - Medicines
+   - Dosage
+   - Vaccination Schedule
+   - Growth values
+   - Milestones
+   - Blood Pressure
+   - Instructions
+   - Standard Protocol
+   - Investigations
+   - Holidays
+   - References
+
+  - Visits
+    - CheckUp
+    - Receipt Inventory
+    - Vaccination Administration
+    - Growth Entry
+    - Milestones Entry
+
+  - Reports
+    - Patients
+     -
+    - Vaccination
+     - Reminders
+     - Vaccination Due List
+    - Receipts/Collection
+     - Form3C
+     - Receipt Printing
+     - Receipt Register
+    - Analysis Reports
+     - New Registerations
+     - Vaccination Analysis
+     - DIagonsis Analysis
+     - Medicine Analysis
+     -
+  - Inventory
+    - Purchase Inventory
+    - Stock Report
+
+  - Appointments
