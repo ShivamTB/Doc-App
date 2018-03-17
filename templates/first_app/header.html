@@ -6,6 +6,8 @@
     <link href="https://fonts.googleapis.com/css?family=Comfortaa|Droid+Sans:400,700|Noto+Sans" rel="stylesheet">
     <title>First App</title>
     <link rel="stylesheet" type="text/css" href="{% static "/css/header.css" %}">
+    <link rel="stylesheet" type="text/css" href="{% static "/css/page.css" %}">
+    <link rel="stylesheet" type="text/css" href="{% static "/css/footer.css" %}">
   </head>
   <body>
   	 <div class="header">
@@ -15,50 +17,22 @@
             </div>
             <div class="domain_logo header_item">
                 <a href="/">
-                    <h1>iimjobs</h1><span>.com</span>
+                    <h1>DocApp</h1><span>v.01</span>
                 </a>
             </div>
-            <div class="profile_actions right header_item">
-                <div class="predefined_queries">
-                    <p>Predefined Queries <span class="chevron" style="display: inline-block;min-width:12px;font-size: 12px;margin-left: 5px;position: relative;top: -3px;"><i class="fa fa-chevron-down"></i></span></p>
-                </div>
-                <div class="filter action-icon">
-                    <img src="/static/images/filter_icon.png">
-                </div>
-                <div class="messages action-icon">
-                    <a href="/my-chat">
-                        <img src="/static/images/chat_icon.svg">
-                    </a>
-                </div>
-                <div class="notifications action-icon">
-                    <img src="/static/images/notification_icon.svg">
-                </div>
-                <div class="profile action-icon">
-                    <img>
-                    <div class="profile-menu">
-                        <div class="profile-header">
-                            <p class="user-name"></p>
-                            <p class="user-email"></p>
-                        </div>
-                        <div class="profile-body">
-                            <ul class="profile-item-listing">
-                                <li class="bookmarked-link"><a href="/bookmarked-profiles" target="_blank">Bookmarked Profiles</a></li>
-                                <li class="commented-link"><a href="/commented-profiles" target="_blank">Commented Profiles</a></li>
-                                <li class="saved-queries-link"><a href="/saved-queries" target="_blank">Saved Queries</a></li>
-                                <li class="tagged-link"><a href="/tagged-profiles" target="_blank">Tagged Profiles</a></li>
-                                <li class="create-institute-link">
-                                    <a href="/create-own-institute-list" target="_blank">Create your own Institute List</a>
-                                </li>
-                                <li class="create-organization-link">
-                                    <a href="/create-own-organization" target="_blank">Create your own Organization List</a></li>
-                                <li class="">
-                                    <a href="https://iimjobs.com/recruiter/" target="_blank">My Jobs</a></li>
-                                <!-- <li class="settings"><a href="/settings">Account Settings</a></li> -->
-                                <li class="logout"><a href="/logout">Logout</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
+            <div class="navigation header_item">
+            	<ul class="">
+         			<li class="menu-list-item">
+         				<span>Parent</span>
+						<div class="submenu">
+							<ul>
+								<li>Child</li>
+							</ul>
+						</div>
+         			</li>
+         			<li class="menu-list-item"></li>
+
+            	</ul>
             </div>
         </div>
     </div>
