@@ -57,7 +57,7 @@ class Patient(models.Model):
 
 class Form3C(models.Model):
     date = models.DateTimeField(auto_now=False, auto_now_add=True)
-    pat = models.ForeignKey(Patient)
+    pat = models.ForeignKey('Patient', on_delete=models.DO_NOTHING)
     name = models.CharField(max_length=64)
     purpose = models.CharField(max_length=64)
     charges = models.DecimalField(max_digits = 5, decimal_places=0)
@@ -75,7 +75,7 @@ class UnregForm3C(models.Model):
         return str(self.date)
 
 class Appointment(models.Model):
-    patient = models.ForeignKey(Patient)
+    patient = models.ForeignKey('Patient', on_delete=models.DO_NOTHING,)
     date = models.DateTimeField(auto_now=False, auto_now_add=False)
     location = models.CharField(max_length = 32)
     notes = models.TextField
@@ -94,7 +94,7 @@ class Vaccine(models.Model):
         return self.name
 
 class Inventory(models.Model):
-    vaccine = models.ForeignKey(Vaccine)
+    vaccine = models.ForeignKey('Vaccine', on_delete=models.DO_NOTHING)
     company = models.CharField(max_length=16)
     batch = models.CharField(max_length=16)
     quantity = models.PositiveSmallIntegerField()
@@ -103,9 +103,9 @@ class Inventory(models.Model):
         return self.batch
 
 class Vaccination(models.Model):
-    patient = models.ForeignKey(Patient)
-    vaccine = models.ForeignKey(Vaccine)
-    inventory = models.ForeignKey(Inventory)
+    patient = models.ForeignKey('Patient', on_delete=models.DO_NOTHING,)
+    vaccine = models.ForeignKey('Vaccine', on_delete=models.DO_NOTHING,)
+    inventory = models.ForeignKey('Inventory', on_delete=models.DO_NOTHING,)
     vac_scheduled_date = models.DateField(auto_now=False, auto_now_add=False)
     vac_actual_date = models.DateField(auto_now=False, auto_now_add=True)
 
@@ -113,7 +113,7 @@ class Vaccination(models.Model):
         return str(self.vac_actual_date)
 
 class Visit(models.Model):
-    patient = models.ForeignKey(Patient)
+    patient = models.ForeignKey('Patient', on_delete=models.DO_NOTHING,)
     date = models.DateTimeField(auto_now=False, auto_now_add=True)
     weight = models.DecimalField(max_digits=5, decimal_places=2,default=0)
     height = models.DecimalField(max_digits=4, decimal_places=1,default=0)
