@@ -25,6 +25,7 @@ def form_name_view(request):
 
     return render(request, 'first_app/form_page.html',{'form':form})
 
+
 def search(request):
     patient_list = Patient.objects.all()
     patient_filter = PatientFilter(request.GET, queryset=patient_list)
