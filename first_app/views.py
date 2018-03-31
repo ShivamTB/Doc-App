@@ -78,9 +78,8 @@ def patient_update(request, pk):
 def patient_fetch(request, pk):
     patient = get_object_or_404(Patient, pk=pk)
     d1 = patient.dob
-    d2 = datetime.datetime.now()
-    age = (d2.year - d1.year) * 12 + d2.month - d1.mont
-    return JsonResponse(serializers.serialize('json', [ patient, age]), safe = False)
+    d2 = datetime.now()
+    return JsonResponse(serializers.serialize('json', [ patient, ]), safe = False)
 
 def patient_delete(request, pk):
     patient = get_object_or_404(Patient, pk=pk)
