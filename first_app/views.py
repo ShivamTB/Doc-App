@@ -6,6 +6,8 @@ from .models import Patient
 from django.template.loader import render_to_string
 from django.http import JsonResponse
 from django.shortcuts import get_object_or_404
+from django.core import serializers
+
 
 # Create your views here.
 
@@ -73,7 +75,8 @@ def patient_update(request, pk):
 
 def patient_fetch(request, pk):
     patient = get_object_or_404(Patient, pk=pk)
-    return render(request, 'first_app/index.html', {'patient':patient})
+
+    return JsonResponse(serializers.serialize('json', [ patient, ]), safe = False)
 
 def patient_delete(request, pk):
     patient = get_object_or_404(Patient, pk=pk)
