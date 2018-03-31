@@ -84,9 +84,12 @@ class Appointment(models.Model):
         return str(self.date)
 
 class Vaccine(models.Model):
-    vac_types = (('R', 'Regular'),('S','Special'))
-    vac_type = models.CharField(max_length = 1, choices = vac_types)
     name = models.CharField(max_length=16)
+    previous = models.PositiveSmallIntegerField()
+    compound1 = models.PositiveSmallIntegerField()
+    compound2 = models.PositiveSmallIntegerField()
+    compound3 = models.PositiveSmallIntegerField()
+    compound4 = models.PositiveSmallIntegerField()
     charges = models.DecimalField(max_digits = 5, decimal_places=0)
     notes = models.TextField()
 

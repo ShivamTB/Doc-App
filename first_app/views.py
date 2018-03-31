@@ -71,6 +71,10 @@ def patient_update(request, pk):
         form = forms.FormName(instance=patient)
     return save_patient_form(request, form, 'first_app/includes/partial_patient_update.html')
 
+def patient_fetch(request, pk):
+    patient = get_object_or_404(Patient, pk=pk)
+    return (request, , {'patient':patient})
+
 def patient_delete(request, pk):
     patient = get_object_or_404(Patient, pk=pk)
     data = dict()
