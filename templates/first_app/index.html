@@ -2,6 +2,7 @@
 {% load staticfiles %}
 	<link rel="stylesheet" type="text/css" href="{% static "/css/sidebar.css" %}">
 	<link rel="stylesheet" type="text/css" href="{% static "/css/fonts.css" %}">
+	<link rel="stylesheet" type="text/css" href="{% static "/css/index.css" %}">
     <div class="page-content">
 		<div class="wrapper left sidebar">
 			{% include 'first_app/patient_list.html' %}
@@ -18,7 +19,7 @@
 						    </div>
 						    <div class="information-block">
 						        <h4><span class="patient-name"></span></h4>
-						        <p>Pat No.: <span class="patient-number"></span></p>
+						        <p>Patient Number: <span class="patient-number"></span></p>
 						    </div>
 						</div>
 			            <div class="meta-info right">
@@ -28,6 +29,29 @@
 			            <div class="clearfix"></div>
 			        </div>
 			    </div>
+
+			    <div class="action-container">
+			    	<div class="action-wrapper">
+			    		<div class="action-block vaccination"><p>vaccination</p>
+			    		</div>
+			    	</div>
+			    	<div class="action-wrapper">
+			    		<div class="action-block checkup"><p>checkup</p>
+			    		</div>
+			    	</div>
+			    	<div class="action-wrapper">
+			    		<div class="action-block growth"><p>growth</p>
+			    		</div>
+			    	</div>
+			    	<div class="action-wrapper">
+			    		<div class="action-block diagnosis"><p>diagnosis</p>
+			    		</div>
+			    	</div>
+			    	<div class="action-wrapper">
+			    		<div class="action-block misc"><p>Miscellaneous</p>
+			    		</div>
+			    	</div>
+			    </div>
 			</div>
 		</div>
 		<div class="clearfix"></div>
@@ -35,4 +59,6 @@
 
   <script src="{% static 'js/jquery-3.3.1.min.js' %}"></script> 
   <script src="{% static 'js/index.js' %}"></script>
+  <script src="{% static 'js/moment.js' %}"></script>
+  <script src="{% static 'js/moment-diff.js' %}"></script>
 {% include 'first_app/footer.html' %}
