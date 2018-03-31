@@ -1,6 +1,7 @@
 {% include 'first_app/header.html' %}
 {% load staticfiles %}
 	<link rel="stylesheet" type="text/css" href="{% static "/css/sidebar.css" %}">
+	<link rel="stylesheet" type="text/css" href="{% static "/css/fonts.css" %}">
     <div class="page-content">
 		<div class="wrapper left sidebar">
 			{% include 'first_app/patient_list.html' %}
@@ -8,12 +9,30 @@
 		<div class="wrapper right content">
 			<h1>Welcome</h1>
 			<p>To get started, please search for a patient or select a patient from the listing from the sidebar.</p>
-			<div class="patient-info-container">
-				
+			<div class="patient-info-container hidden">
+				<div class="patient-container">
+			        <div class="patient-header">
+			            <div class="info left">
+						    <div class="image-block">
+						    	
+						    </div>
+						    <div class="information-block">
+						        <h4><span class="patient-name"></span></h4>
+						        <p>Pat No.: <span class="patient-number"></span></p>
+						    </div>
+						</div>
+			            <div class="meta-info right">
+							<p>Gender: <span class="patient-sex"></span></p>
+						     <p>Age: <span class="patient-age"></span></p>
+						</div>
+			            <div class="clearfix"></div>
+			        </div>
+			    </div>
 			</div>
 		</div>
 		<div class="clearfix"></div>
     </div>
 
-  <script src="{% static 'js/jquery-3.3.1.min.js' %}"></script>  <!-- JQUERY HERE -->
+  <script src="{% static 'js/jquery-3.3.1.min.js' %}"></script> 
+  <script src="{% static 'js/index.js' %}"></script>
 {% include 'first_app/footer.html' %}

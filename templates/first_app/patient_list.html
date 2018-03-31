@@ -12,7 +12,7 @@
 	<h3>List of Patients</h3>
 	<ul>
 	    {% for patient in filter.qs %}
-	    <li class="{{patient.sex}}">
+	    <li class="{{patient.sex}}" data-url="{% url 'patient_fetch' patient.id %}" data-patient-id="{{ patient.pk }}">
 	        <div class="patient-card">
 	            <span class="patient-dob subinfo"><span class="">DOB: </span>{{ patient.dob |date:"dS M, Y"}}</span>
 	            <div class="patient-name maininfo">{{ patient.first_name|title}} {{ patient.sur_name|title }}</div>
