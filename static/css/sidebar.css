@@ -1,3 +1,6 @@
+.search-container h4 {
+  margin-top: 0; }
+
 .search-container input {
   display: block;
   margin: 5px 0 0 0;
@@ -8,9 +11,6 @@
   line-height: 1.5; }
   .search-container input:focus {
     outline: 1px solid #346FD9; }
-
-.patient-listing h4 {
-  margin-top: 0; }
 
 .patient-listing ul {
   padding: 0;

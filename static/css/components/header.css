@@ -611,7 +611,7 @@ html {
     .header .domain_logo a h1 {
       font-size: 30px;
       font-family: inherit;
-      line-height: 25px;
+      line-height: 1.5;
       margin: 0;
       display: inline-block;
       float: right; }
