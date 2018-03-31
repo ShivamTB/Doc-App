@@ -1,12 +1,19 @@
 {% include 'first_app/header.html' %}
-
+{% load staticfiles %}
+	<link rel="stylesheet" type="text/css" href="{% static "/css/sidebar.css" %}">
     <div class="page-content">
 		<div class="wrapper left sidebar">
 			{% include 'first_app/patient_list.html' %}
 		</div>
 		<div class="wrapper right content">
-			<h1>Hello this is index.html</h1>
+			<h1>Welcome</h1>
+
+			<div class="patient-info-container">
+				
+			</div>
 		</div>
+		<div class="clearfix"></div>
     </div>
 
+  <script src="{% static 'js/jquery-3.3.1.min.js' %}"></script>  <!-- JQUERY HERE -->
 {% include 'first_app/footer.html' %}

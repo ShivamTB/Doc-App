@@ -1,9 +1,37 @@
-<form method="get">
-    {{ filter.form.as_p }}
-    <button type="submit">Search</button>
-  </form>
-  <ul>
-  {% for patient in filter.qs %}
-    <li>{{ patient.pat_number }} - {{ patient.first_name }} {{ patient.sur_name }}</li>
-  {% endfor %}
-  </ul>
+{% load widget_tweaks %}
+<div class="search-container">
+	<h4>Search by: </h4>
+	<form method="get">
+	    {% for field in filter.form %}
+	    	{% render_field field placeholder=field.label value="" %}
+	    {% endfor %}<br/>
+	    <button type="submit">Search</button>
+	</form>
+</div>
+<div class="patient-listing">
+	<h3>List of Patients</h3>
+	<ul>
+	    {% for patient in filter.qs %}
+	    <li class="{{patient.sex}}">
+	        <div class="patient-card">
+	            <span class="patient-dob subinfo"><span class="">DOB: </span>{{ patient.dob |date:"dS M, Y"}}</span>
+	            <div class="patient-name maininfo">{{ patient.first_name|title}} {{ patient.sur_name|title }}</div>
+	            <div class="patient-info">
+		            <div class="father-name subinfo">
+		            	<span class="">Father's Name:</span>
+		            	<span class="value">{{ patient.father_name }}</span>
+		            </div>
+		            <div class="monthers-name subinfo" data-applicants="91">
+		            	<span class="">Mother's Name:</span>
+		            	<span class="value">{{ patient.mother_name }}</span>
+		            </div>
+		            <div class="patient-number subinfo">
+		            	<span class="">Patient Number:</span>
+		            	<span class="value">{{ patient.pat_number }}</span>
+		            </div>
+	            </div>
+	        </div>
+	    </li>
+	    {% endfor %}
+	</ul>
+</div>
