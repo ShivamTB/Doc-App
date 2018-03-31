@@ -73,7 +73,7 @@ def patient_update(request, pk):
 
 def patient_fetch(request, pk):
     patient = get_object_or_404(Patient, pk=pk)
-    return (request, , {'patient':patient})
+    return (request, 'first_app/index.html', {'patient':patient})
 
 def patient_delete(request, pk):
     patient = get_object_or_404(Patient, pk=pk)

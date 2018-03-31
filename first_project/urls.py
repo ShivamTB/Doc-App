@@ -26,6 +26,6 @@ urlpatterns = [
     url(r'^patient/create/$', views.patient_create, name='patient_create'),
     url(r'^patient/(?P<pk>\d+)/update/$', views.patient_update, name='patient_update'),
     url(r'^patient/(?P<pk>\d+)/delete/$', views.patient_delete, name='patient_delete'),
-    url(r'^patient/(?P<pk>\d+)fetch/$', views.patient_fetch, name='patient_fetch'),
+    url(r'^patient/(?P<pk>\d+)/fetch/$', views.patient_fetch, name='patient_fetch'),
     url(r'^admin/', admin.site.urls),
 ]
