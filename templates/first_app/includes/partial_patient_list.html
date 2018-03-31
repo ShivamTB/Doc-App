@@ -3,7 +3,7 @@
     <td>{{ patient.pat_number }}</td>
     <td>{{ patient.first_name }}</td>
     <td>{{ patient.sur_name }}</td>
-    <td>{{ patient.dob }}</td>
+    <td>{{ patient.dob|date:"dS b Y" }}</td>
     <td>{{ patient.sex }}</td>
     <td>{{ patient.father_name }}</td>
     <td>{{ patient.mother_name }}</td>
