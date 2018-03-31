@@ -17,12 +17,14 @@ from django.conf.urls import url
 from django.contrib import admin
 from django.conf.urls import include
 from first_app import views
-from books import views as views2
 
 urlpatterns = [
     url(r'^$',views.index, name = 'index'),
     url(r'^first_app/',include('first_app.urls')),
     url(r'^formpage/',views.form_name_view,name='form_name'),
-    url(r'^books/$', views2.book_list, name='book_list'),
+    url(r'^formpagejav/',views.pat_list, name='pat_list'),
+    url(r'^patient/create/$', views.patient_create, name='patient_create'),
+    url(r'^patient/(?P<pk>\d+)/update/$', views.patient_update, name='patient_update'),
+    url(r'^patient/(?P<pk>\d+)/delete/$', views.patient_delete, name='patient_delete'),
     url(r'^admin/', admin.site.urls),
 ]
