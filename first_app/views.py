@@ -7,6 +7,8 @@ from django.template.loader import render_to_string
 from django.http import JsonResponse
 from django.shortcuts import get_object_or_404
 from django.core import serializers
+from datetime import datetime
+
 
 
 # Create your views here.
@@ -75,8 +77,10 @@ def patient_update(request, pk):
 
 def patient_fetch(request, pk):
     patient = get_object_or_404(Patient, pk=pk)
-
-    return JsonResponse(serializers.serialize('json', [ patient, ]), safe = False)
+    d1 = patient.dob
+    d2 = datetime.datetime.now()
+    age = (d2.year - d1.year) * 12 + d2.month - d1.mont
+    return JsonResponse(serializers.serialize('json', [ patient, age]), safe = False)
 
 def patient_delete(request, pk):
     patient = get_object_or_404(Patient, pk=pk)
