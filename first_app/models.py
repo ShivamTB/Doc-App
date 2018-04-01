@@ -54,6 +54,38 @@ class Patient(models.Model):
 
     def __str__(self):
         return self.first_name
+class BirthHistory(models.Model):
+    patient = models.ForeignKey('Patient', on_delete=models.DO_NOTHING)
+    gestation = models.PositiveSmallIntegerField()
+    mod_choices = (('1', 'Vaginal Delivery'),('2','Breech Delivery'),('3', 'Vaccum Delivery'),('4','Forceps Delivery'),('5', 'Cesarian'))
+    mode_of_delivery = models.CharField(max_length = 1, choices = mod_choices, blank=True, null=True)
+    indication = models.CharField(max_length=64, blank=True, null=True)
+    #try to make indication an optional field to appear after mod
+    #MANAGEMENT IN NICU
+    nicu_duration = models.PositiveSmallIntegerField()
+    diagnosis = models.TextField(blank=True, null=True)
+    surfuctant = models.CharField(max_length=16, blank=True, null=True)
+    #invasive  ventilation
+    inv_vent_type =  models.CharField(max_length=16, blank=True, null=True)
+    inv_vent_duration = models.PositiveSmallIntegerField()
+    #nonInvasiveVentilation
+    non_inv_vent_type =  models.CharField(max_length=16, blank=True, null=True)
+    non_inv_vent_duration = models.PositiveSmallIntegerField()
+    #TPN
+    tpn_type = models.CharField(max_length=16, blank=True, null=True)
+    start_day = models.PositiveSmallIntegerField()
+    tpn_duration = models.PositiveSmallIntegerField()
+    #sepsis
+    culture = models.BooleanField(default=True)
+    bacteria = models.CharField(max_length=32, blank=True, null=True)
+    antibiotics = models.TextField(blank=True, null=True)
+    #complications
+    complications = models.TextField(blank=True, null=True)
+    #PHOTOTHERAPY
+    phototherapy_day = models.PositiveSmallIntegerField()
+    onset_day = models.PositiveSmallIntegerField()
+    congenital_malformations =  models.TextField(blank=True, null=True)
+    congenital_disease = models.TextField(blank=True, null=True)
 
 class Form3C(models.Model):
     date = models.DateTimeField(auto_now=False, auto_now_add=True)

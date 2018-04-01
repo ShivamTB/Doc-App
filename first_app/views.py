@@ -20,10 +20,10 @@ def index(request):
     return render(request,'first_app/index.html',context=my_dict)
 
 def form_name_view(request):
-    form = forms.FormName()
+    form = forms.CheckUP()
 
     if request.method == 'POST':
-        form = forms.FormName(request.POST)
+        form = forms.CheckUP(request.POST)
 
         if form.is_valid():
             #DO SOMETHING
