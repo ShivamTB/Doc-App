@@ -21,9 +21,9 @@ jQuery(document).ready(function() {
 	});
 
 
-	//Full names : 
+	//Full names :
 	jQuery("#id_first_name").on("keyup", function() {
-	  var value = jQuery(this).val(); 
+	  var value = jQuery(this).val();
 	  jQuery(".patient-card").each(function(i,el){
 		var name = jQuery(el).find(".patient-name").text();
 	    if(name.toLowerCase().indexOf(value.toLowerCase()) != -1) {
@@ -34,6 +34,31 @@ jQuery(document).ready(function() {
 	  });
 	});
 
+	jQuery("#id_father_name").on("keyup", function() {
+	  var value = jQuery(this).val();
+	  jQuery(".patient-card").each(function(i,el){
+		var name = jQuery(el).find(".father-name").text();
+	    if(name.toLowerCase().indexOf(value.toLowerCase()) != -1) {
+	      jQuery(el).parent().removeClass("hidden");
+	    } else {
+		  jQuery(el).parent().addClass("hidden");
+	    }
+	  });
+	});
+
+	jQuery("#id_mother_name").on("keyup", function() {
+	  var value = jQuery(this).val();
+	  jQuery(".patient-card").each(function(i,el){
+		var name = jQuery(el).find(".mothers-name").text();
+	    if(name.toLowerCase().indexOf(value.toLowerCase()) != -1) {
+	      jQuery(el).parent().removeClass("hidden");
+	    } else {
+		  jQuery(el).parent().addClass("hidden");
+	    }
+	  });
+	});
+
+
 });
 
 var genderMapper = {
@@ -43,7 +68,7 @@ var genderMapper = {
 
 function fetchPatientInfo(patientID) {
 	$.ajax({
-		type:'GET', 
+		type:'GET',
 		dataType:'json',
 		url:"/patient/"+patientID+"/fetch/",
 		beforeSend:function() {
@@ -51,12 +76,12 @@ function fetchPatientInfo(patientID) {
 		}, success:function(response) {
 			var response = JSON.parse(response);
 
-			console.log(response[0]);
+			console.log(response);
 
-			if(typeof response[0] == 'object') {
+			if(typeof response == 'object') {
 				jQuery(".patient-info-container").removeClass("hidden");
 				var infoContainer = jQuery(".patient-info-container");
-				var response = response[0]['fields'];
+				var response = response['fields'];
 				infoContainer.find(".patient-name").html(response['first_name'] + " " + response['sur_name']);
 				infoContainer.find(".patient-sex").html(genderMapper[response['sex']]);
 				infoContainer.find(".patient-number").html(response['pat_number']);
@@ -65,13 +90,13 @@ function fetchPatientInfo(patientID) {
 				var dob = moment(response['dob']);
 				var now = moment();
 
-				var diff = moment.preciseDiff(dob, now, true); 
+				var diff = moment.preciseDiff(dob, now, true);
 
-				infoContainer.find(".patient-age").html(diff['years'] + " yrs, " + diff['months']+" m" );
+				infoContainer.find(".patient-age").html(diff['years'] + " yrs, " + diff['months']+" m, " + diff['days']+" d" );
 				// .html(JSON.stringify(response[0]['fields']));
 			}
 
-			
+
 		}
 	})
 }

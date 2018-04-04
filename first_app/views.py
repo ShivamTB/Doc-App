@@ -8,7 +8,7 @@ from django.http import JsonResponse
 from django.shortcuts import get_object_or_404
 from django.core import serializers
 from datetime import datetime
-
+import json
 
 
 # Create your views here.
@@ -16,7 +16,7 @@ from datetime import datetime
 def index(request):
     patient_list = Patient.objects.all()
     patient_filter = PatientFilter(request.GET, queryset=patient_list)
-    my_dict = {'insert_me' : "Hello I am from first_app/index.html",'filter': patient_filter}
+    my_dict = {'filter': patient_filter}
     return render(request,'first_app/index.html',context=my_dict)
 
 def form_name_view(request):
@@ -77,9 +77,10 @@ def patient_update(request, pk):
 
 def patient_fetch(request, pk):
     patient = get_object_or_404(Patient, pk=pk)
-    d1 = patient.dob
-    d2 = datetime.now()
-    return JsonResponse(serializers.serialize('json', [ patient, ]), safe = False)
+    patient = serializers.serialize('json', [patient])
+    struct = json.loads(patient)
+    patient = json.dumps(struct[0])
+    return JsonResponse(patient, safe=False)
 
 def patient_delete(request, pk):
     patient = get_object_or_404(Patient, pk=pk)

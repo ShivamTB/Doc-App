@@ -6,7 +6,6 @@ class PatientFilter(django_filters.FilterSet):
     sur_name = django_filters.CharFilter(lookup_expr='icontains', label = 'Sur Name')
     father_name = django_filters.CharFilter(lookup_expr='icontains', label = "Father's Name")
     mother_name = django_filters.CharFilter(lookup_expr='icontains', label = "Mother's Name")
-    first_name.label_tag = 'First Name'
     class Meta:
         model = Patient
         fields = ['pat_number', 'first_name', 'sur_name','dob','father_name','mother_name']
