@@ -3,55 +3,101 @@
 	<link rel="stylesheet" type="text/css" href="{% static "/css/sidebar.css" %}">
 	<link rel="stylesheet" type="text/css" href="{% static "/css/fonts.css" %}">
 	<link rel="stylesheet" type="text/css" href="{% static "/css/index.css" %}">
+	<link rel="stylesheet" type="text/css" href="{% static "/css/newpatient.css" %}">
+
     <div class="page-content">
 		<div class="wrapper left sidebar">
 			{% include 'first_app/patient_list.html' %}
 		</div>
 		<div class="wrapper right content">
-			<h1>Welcome</h1>
-			<p>To get started, please search for a patient or select a patient from the listing from the sidebar.</p>
-			<div class="patient-info-container hidden">
-				<div class="patient-container">
-			        <div class="patient-header">
-			            <div class="info left">
-						    <div class="image-block">
 
-						    </div>
-						    <div class="information-block">
-						        <h4><span class="patient-name"></span></h4>
-						        <p>Patient Number: <span class="patient-number"></span></p>
-						    </div>
-						</div>
-			            <div class="meta-info right">
-							<p>Gender: <span class="patient-sex"></span></p>
-						     <p>Age: <span class="patient-age"></span></p>
-						</div>
-			            <div class="clearfix"></div>
-			        </div>
-			    </div>
+			<div class="welcome-container">
+				<h1>Welcome</h1>
+				<p>To get started, please search for a patient or select a patient from the listing from the sidebar.</p>
+				<div class="patient-info-container hidden">
+					<div class="patient-container">
+						<div class="patient-header">
+							<div class="info left">
+								<div class="image-block">
 
-			    <div class="action-container">
-			    	<div class="action-wrapper">
-			    		<div class="action-block vaccination"><p>vaccination</p>
-			    		</div>
-			    	</div>
-			    	<div class="action-wrapper">
-			    		<div class="action-block checkup"><p>checkup</p>
-			    		</div>
-			    	</div>
-			    	<div class="action-wrapper">
-			    		<div class="action-block growth"><p>growth</p>
-			    		</div>
-			    	</div>
-			    	<div class="action-wrapper">
-			    		<div class="action-block diagnosis"><p>diagnosis</p>
-			    		</div>
-			    	</div>
-			    	<div class="action-wrapper">
-			    		<div class="action-block misc"><p>Miscellaneous</p>
-			    		</div>
-			    	</div>
-			    </div>
+								</div>
+								<div class="information-block">
+									<h4><span class="patient-name"></span></h4>
+									<p>Patient Number: <span class="patient-number"></span></p>
+								</div>
+							</div>
+							<div class="meta-info right">
+								<p>Gender: <span class="patient-sex"></span></p>
+									<p>Age: <span class="patient-age"></span></p>
+							</div>
+							<div class="clearfix"></div>
+						</div>
+					</div>
+
+					<div class="action-container">
+						<div class="action-wrapper">
+							<div class="action-block vaccination"><p>vaccination</p>
+							</div>
+						</div>
+						<div class="action-wrapper">
+							<div class="action-block checkup"><p>checkup</p>
+							</div>
+						</div>
+						<div class="action-wrapper">
+							<div class="action-block growth"><p>growth</p>
+							</div>
+						</div>
+						<div class="action-wrapper">
+							<div class="action-block diagnosis"><p>diagnosis</p>
+							</div>
+						</div>
+						<div class="action-wrapper">
+							<div class="action-block misc"><p>Miscellaneous</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="new-patient-registration-container hidden">
+				<h1>New Patient</h1>
+				<div class="new-patient-form">
+					<div class="patient-info">
+						<h4>Patient Details:</h4>
+						<input type="text" id="newpatient-id" placeholder="Patient ID">
+						<input type="text" id="newpatient-dob" placeholder="Date of birth">
+						<input type="text" id="newpatient-tob" placeholder="Time of birth">
+						<br/>
+						<input type="text" id="newpatient-firstname" placeholder="First Name">
+						<input type="text" id="newpatient-surname" placeholder="Surname">
+						<input type="text" id="newpatient-bloodgroup" placeholder="Blood Group">
+						<h4>Father's Details:</h4>
+						<input type="text" id="father-firstname" placeholder="First Name">
+						<input type="text" id="father-surname" placeholder="Surname">
+						<input type="text" id="father-bloodgroup" placeholder="Blood Group">
+						<input type="email" id="father-email" placeholder="Email">
+						<input type="email" id="father-phone" placeholder="Mobile Number">
+						<h4>Mother's Details:</h4>
+						<input type="text" id="father-firstname" placeholder="First Name">
+						<input type="text" id="father-surname" placeholder="Surname">
+						<input type="text" id="father-bloodgroup" placeholder="Blood Group">
+						<input type="email" id="father-email" placeholder="Email">
+						<input type="email" id="father-phone" placeholder="Mobile Number">
+					</div>
+					<div class="parent-info">
+						<h4>Residential Address:</h4>
+						<textarea class="newpatient-address" placeholder="Residential Address"></textarea>
+						<input type="text" placeholder="State">
+						<input type="text" maxlength="6" placeholder="Pincode">
+					</div>
+
+					<div class="parent-meta">
+						<h4>Additional Information</h4>
+						<textarea name="family-history" placeholder="Family History"></textarea>
+
+						<input type="text" placeholder="Allergies">
+					</div>
+					<div class="button birth-history" class="birth-history">Birth History</div>
+				</div>
 			</div>
 		</div>
 		<div class="clearfix"></div>
@@ -59,6 +105,7 @@
 
   <script src="{% static 'js/jquery-3.3.1.min.js' %}"></script>
   <script src="{% static 'js/index.js' %}"></script>
+  <script src="{% static 'js/newpatient.js' %}"></script>
   <script src="{% static 'js/moment.js' %}"></script>
   <script src="{% static 'js/moment-diff.js' %}"></script>
 {% include 'first_app/footer.html' %}

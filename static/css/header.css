@@ -613,7 +613,6 @@ html {
       font-family: inherit;
       line-height: 1.3;
       margin: 0;
-      display: inline-block;
       float: right; }
     .header .domain_logo a span {
       font-family: inherit;
