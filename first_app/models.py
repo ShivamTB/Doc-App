@@ -11,12 +11,13 @@ class Doctor(models.Model):
 
 class Patient(models.Model):
     pat_number = models.PositiveSmallIntegerField(default = 0)
-    first_name = models.CharField(max_length=32)
+    first_name = models.CharField(max_length=32, default = "")
+
     sur_name = models.CharField(max_length=32, blank=True)
     status = models.BooleanField(default=True)
     dob = models.DateTimeField(auto_now=False, auto_now_add=False, blank=True, null=True)
-    sex_choices = (('M', 'Male'),('F','Female'))
-    sex = models.CharField(max_length = 1, choices = sex_choices, blank=True, null=True)
+    sex_choices = (('G', 'Gender'),('M', 'Male'),('F','Female'))
+    sex = models.CharField(max_length = 1, choices = sex_choices, default='G', blank=True, null=True)
     blood = models.CharField(max_length=3, blank=True, null=True)
     registration_date = models.DateTimeField(auto_now=False, auto_now_add=True, blank=True, null=True)
 

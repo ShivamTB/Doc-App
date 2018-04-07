@@ -1,5 +1,5 @@
 .new-patient-registration-container {
-    input, textarea {
+    input, textarea, select {
         background-color:#fff;
         padding:10px;
         border:0;
@@ -20,6 +20,14 @@
 
     input {
         width:170px;
+    }
+
+    select {
+        height:38px;
+        min-width:120px;
+        &:focus {
+            border-color:#e8e8e8;
+        }
     }
 
     textarea {

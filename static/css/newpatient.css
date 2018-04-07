@@ -1,4 +1,4 @@
-.new-patient-registration-container input, .new-patient-registration-container textarea {
+.new-patient-registration-container input, .new-patient-registration-container textarea, .new-patient-registration-container select {
   background-color: #fff;
   padding: 10px;
   border: 0;
@@ -10,12 +10,18 @@
   margin-bottom: 10px;
   font-size: 14px;
   color: #4b4b4b; }
-  .new-patient-registration-container input:focus, .new-patient-registration-container textarea:focus {
+  .new-patient-registration-container input:focus, .new-patient-registration-container textarea:focus, .new-patient-registration-container select:focus {
     outline: none;
     border-color: #67A2FF; }
 
 .new-patient-registration-container input {
   width: 170px; }
+
+.new-patient-registration-container select {
+  height: 38px;
+  min-width: 120px; }
+  .new-patient-registration-container select:focus {
+    border-color: #e8e8e8; }
 
 .new-patient-registration-container textarea {
   width: 540px;
