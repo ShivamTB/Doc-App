@@ -18,6 +18,18 @@ jQuery(document).ready(function() {
 			console.log("Perform Search with patient Number");
 			fetchPatientInfo(patientNumber);
 		}
+
+		// if(patientDOB) {
+		// 	var listOfPatients = jQuery(".patient-listing").find("li");
+		// 	var dateValue = patientDOB;
+		// 	$.each(listOfPatients, function(i,el) {
+		// 				if(jQuery(el).attr("data-patient-dob") && (patientDOB == jQuery(el).attr("data-patient-dob"))) {
+		// 					jQuery(el).removeClass("hidden");
+		// 				} else {
+		// 					jQuery(el).addClass("hidden");
+		// 				}
+		// 	});
+		// }
 	});
 
 
@@ -58,6 +70,19 @@ jQuery(document).ready(function() {
 	  });
 	});
 
+	// var dateValue = jQuery("#id_dob").val();
+	// jQuery("#id_dob").on("change", function() {
+	// 	console.log(jQuery(this).val());
+	// 	var listOfPatients = jQuery(".patient-listing").find("li");
+	// 	var dateValue = jQuery(this).val();
+	// 	$.each(listOfPatients, function(i,el) {
+	// 				if(jQuery(el).attr("data-patient-dob") && (dateValue == jQuery(el).attr("data-patient-dob"))) {
+	// 					jQuery(el).removeClass("hidden");
+	// 				} else {
+	// 					jQuery(el).addClass("hidden");
+	// 				}
+	// 	});
+	// });
 
 });
 
