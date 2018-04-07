@@ -44,3 +44,18 @@
       text-transform: capitalize;
       letter-spacing: 0.5px;
       color: #FFF; }
+
+button {
+  margin-top: 10px; }
+
+.new-patient {
+  padding: 10px 15px;
+  text-transform: capitalize;
+  font-size: 13px;
+  color: #FFF;
+  border: 1px solid transparent;
+  background-color: #5bafac;
+  display: inline-block;
+  margin-top: 10px; }
+  .new-patient:active {
+    background-color: #287C79; }

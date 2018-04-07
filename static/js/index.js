@@ -104,6 +104,11 @@ function fetchPatientInfo(patientID) {
 			console.log(response);
 
 			if(typeof response == 'object') {
+
+				if(!jQuery(".welcome-container").is(":visible")) {
+					jQuery(".new-patient-registration-container").addClass("hidden");
+					jQuery(".welcome-container").removeClass("hidden");
+				}
 				jQuery(".patient-info-container").removeClass("hidden");
 				var infoContainer = jQuery(".patient-info-container");
 				var response = response['fields'];
