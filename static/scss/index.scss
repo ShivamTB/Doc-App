@@ -79,6 +79,8 @@ button {
 	background-color:#5bafac;
 	display:inline-block;
 	margin-top:10px;
+	margin-left:0;
+	border-radius:0;
 
 	&:active {
 		background-color:#287C79;
