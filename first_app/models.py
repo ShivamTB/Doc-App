@@ -11,7 +11,7 @@ class Doctor(models.Model):
 
 class Patient(models.Model):
     pat_number = models.PositiveSmallIntegerField(default = 0)
-    first_name = models.CharField(max_length=32, default = "NOTFOUND")
+    first_name = models.CharField(max_length=32)
     sur_name = models.CharField(max_length=32, blank=True)
     status = models.BooleanField(default=True)
     dob = models.DateTimeField(auto_now=False, auto_now_add=False, blank=True, null=True)
@@ -89,7 +89,9 @@ class BirthHistory(models.Model):
 
 class Generic(models.Model):
     name = models.CharField(max_length=64)
-    side_effects = models.TextField()
+    side_effects = models.TextField(null = True, blank = True)
+    def __str__(self):
+        return str(self.name)
 
 class Form3C(models.Model):
     date = models.DateTimeField(auto_now=False, auto_now_add=True)

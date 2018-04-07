@@ -63,6 +63,8 @@
 				<div class="new-patient-form">
 					<div class="patient-info">
 						<h4>Patient Details:</h4>
+						{% render_field form.first_name class="form-control" placeholder=form.first_name.label %}
+
 						<input type="text" id="newpatient-id" placeholder="Patient ID">
 						<input type="text" id="newpatient-dob" placeholder="Date of birth">
 						<input type="text" id="newpatient-tob" placeholder="Time of birth">

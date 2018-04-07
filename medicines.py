@@ -10,18 +10,20 @@ from first_app.models import Generic
 from datetime import datetime
 
 
-access_token = ''
+access_token = '4962792aef98d3eedae354677082e3bc095b5fec3e283fa8e4012a0a46d7e21e'
 
-for i in range(1,3):
+for i in range(12,13):
     print(i)
-    url = 'http://www.healthos.co/api/v1/medicines/generics?page='+str(i)+'&size=30'
-    r = requests.get(url, headers={
+    #url = 'http://www.healthos.co/api/v1/medicines/generics?page='+str(i)+'&size=25'
+    url = 'http://www.healthos.co/api/v1/medicines/generics?page=40&size=25'
+    response = requests.get(url, headers={
                             "Authorization": "Bearer " + access_token
-                            }).json()
-    print(r)
-
-    gen = Generic.objects.get_or_create(
-        name = r[i-1]["name"],
-        side_effects = r[i-1]["side_effects"],
-        )[0]
-    u3c.save()
+                            })
+    print(response.headers)
+    r = response.json()
+    for j in r:
+        gen = Generic.objects.get_or_create(
+            name = j["name"],
+            side_effects = j["side_effects"],
+            )[0]
+        gen.save()
