@@ -87,6 +87,10 @@ class BirthHistory(models.Model):
     congenital_malformations =  models.TextField(blank=True, null=True)
     congenital_disease = models.TextField(blank=True, null=True)
 
+class Generic(models.Model):
+    name = models.CharField(max_length=64)
+    side_effects = models.TextField()
+
 class Form3C(models.Model):
     date = models.DateTimeField(auto_now=False, auto_now_add=True)
     pat = models.ForeignKey('Patient', on_delete=models.DO_NOTHING)
@@ -116,12 +120,12 @@ class Appointment(models.Model):
         return str(self.date)
 
 class Vaccine(models.Model):
-    name = models.CharField(max_length=16)
-    previous = models.PositiveSmallIntegerField()
-    compound1 = models.PositiveSmallIntegerField()
-    compound2 = models.PositiveSmallIntegerField()
-    compound3 = models.PositiveSmallIntegerField()
-    compound4 = models.PositiveSmallIntegerField()
+    name = models.CharField(max_length=16, blank = True, null=True)
+    previous = models.PositiveSmallIntegerField(blank = True, null=True)
+    compound1 = models.PositiveSmallIntegerField(blank = True, null=True)
+    compound2 = models.PositiveSmallIntegerField(blank = True, null=True)
+    compound3 = models.PositiveSmallIntegerField(blank = True, null=True)
+    compound4 = models.PositiveSmallIntegerField(blank = True, null=True)
     charges = models.DecimalField(max_digits = 5, decimal_places=0)
     notes = models.TextField()
 
@@ -156,7 +160,11 @@ class Visit(models.Model):
     bp_systolic = models.DecimalField(max_digits = 3, decimal_places=0)
     bp_diastolic = models.DecimalField(max_digits = 3, decimal_places=0)
     charges = models.DecimalField(max_digits = 5, decimal_places=0)
-    vaccination_charges = models.DecimalField(max_digits = 5, decimal_places=0)
+    signs = models.CharField(max_length=256, blank = True)
+    symptoms = models.CharField(max_length=256, blank = True)
+    investigations = models.CharField(max_length=256, blank = True)
+    treatment = models.TextField(null=True)
+    vaccination = models.ForeignKey('Vaccination', on_delete=models.DO_NOTHING, null=True)
     next_date = models.DateTimeField(auto_now=False, auto_now_add=False)
 
     def __str__(self):

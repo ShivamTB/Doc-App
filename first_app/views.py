@@ -2,7 +2,7 @@ from django.shortcuts import render
 from django.http import HttpResponse
 from . import forms
 from .filters import PatientFilter
-from .models import Patient
+from .models import Patient, Visit
 from django.template.loader import render_to_string
 from django.http import JsonResponse
 from django.shortcuts import get_object_or_404
@@ -75,13 +75,6 @@ def patient_update(request, pk):
         form = forms.FormName(instance=patient)
     return save_patient_form(request, form, 'first_app/includes/partial_patient_update.html')
 
-def patient_fetch(request, pk):
-    patient = get_object_or_404(Patient, pk=pk)
-    patient = serializers.serialize('json', [patient])
-    struct = json.loads(patient)
-    patient = json.dumps(struct[0])
-    return JsonResponse(patient, safe=False)
-
 def patient_delete(request, pk):
     patient = get_object_or_404(Patient, pk=pk)
     data = dict()
@@ -99,3 +92,61 @@ def patient_delete(request, pk):
             request=request,
         )
     return JsonResponse(data)
+
+def save_visit_form(request, form, template_name):
+    data = dict()
+
+    if form.is_valid():
+        form.save()
+        data['form_is_valid'] = True
+    else:
+        data['form_is_valid'] = False
+
+    context = {'form': form}
+    data['html_form'] = render_to_string(template_name, context, request=request)
+    return JsonResponse(data)
+
+def visit_create(request):
+
+    if request.method == 'POST':
+        form = forms.CheckUP(request.POST)
+    else:
+        form = forms.CheckUP()
+    return save_visit_form(request, form, 'first_app/includes/partial_visit_create.html')
+
+def visit_update(request, pk):
+    visit = get_object_or_404(Visit, pk=pk)
+    last_visit = last_visit(visit.patient.pk)
+    if request.method == 'POST':
+        form = forms.CheckUP(request.POST, instance=patient)
+    else:
+        form = forms.CheckUP(instance=patient)
+    return save_visit_form(request, form, 'first_app/includes/partial_visit_update.html')
+
+def visit_delete(request, pk):
+    visit = get_object_or_404(Visit, pk=pk)
+    data = dict()
+    if request.method == 'POST':
+        patient.delete()
+        data['form_is_valid'] = True  # This is just to play along with the existing code
+    else:
+        context = {'patient': patient}
+        data['html_form'] = render_to_string('first_app/includes/partial_visit_delete.html',
+            context,
+            request=request,
+        )
+    return JsonResponse(data)
+
+def last_visit(pk, ppk):
+    while(pk>0):
+        pk -= 1
+        visit = get_object_or_404(Visit, pk=pk)
+        if (visit.patient.pk == ppk):
+            return pk
+
+def patient_fetch(request, pk):
+    patient = get_object_or_404(Patient, pk=pk)
+    patient = serializers.serialize('json', [patient])
+    struct = json.loads(patient)
+    patient = json.dumps(struct[0])
+    return JsonResponse(patient, safe=False)
