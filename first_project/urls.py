@@ -27,5 +27,8 @@ urlpatterns = [
     url(r'^patient/(?P<pk>\d+)/update/$', views.patient_update, name='patient_update'),
     url(r'^patient/(?P<pk>\d+)/delete/$', views.patient_delete, name='patient_delete'),
     url(r'^patient/(?P<pk>\d+)/fetch/$', views.patient_fetch, name='patient_fetch'),
+    url(r'^visit/create/$', views.visit_create, name='visit_create'),
+    url(r'^visit/(?P<pk>\d+)/update/$', views.visit_update, name='visit_update'),
+    url(r'^visit/(?P<pk>\d+)/delete/$', views.visit_delete, name='visit_delete'),
     url(r'^admin/', admin.site.urls),
 ]
