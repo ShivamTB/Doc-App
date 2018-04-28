@@ -165,6 +165,7 @@ class Visit(models.Model):
     charges = models.DecimalField(max_digits = 5, decimal_places=0)
     signs = models.CharField(max_length=256, blank = True)
     symptoms = models.CharField(max_length=256, blank = True)
+    diagonsis = models.CharField(max_length=256, blank = True)
     investigations = models.CharField(max_length=256, blank = True)
     treatment = models.TextField(null=True)
     vaccination = models.ForeignKey('Vaccination', on_delete=models.DO_NOTHING, null=True)
