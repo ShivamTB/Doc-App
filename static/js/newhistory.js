@@ -4,23 +4,20 @@
 // });
 
 $(function () {
-
     $("button.button.new-patient").click(function () {
       var btn = $(this);  // <-- HERE
       $.ajax({
         url: btn.attr("data-url"),
-        url: '/patient/create/',
+        url: '/history/create/',
         type: 'get',
         dataType: 'json',
         beforeSend: function () {
-            // console.log("Before Sedning Create Patient URL : ");
-        //   $("#modal-patient").modal("show");
         },
         success: function (data) {
             // console.info("Success!");
             jQuery(".welcome-container").addClass("hidden");
-            jQuery(".new-patient-registration-container").removeClass("hidden");
-            $(".new-patient-registration-container").html(data.html_form);
+            // jQuery(".new-patient-history-container").removeClass("hidden");
+            $(".new-patient-history-container").html(data.html_form);
         }
       });
     });
@@ -104,29 +101,9 @@ $(function () {
    $("#modal-patient").on("submit", ".js-patient-delete-form", saveForm);
 
    // Save Form from index.js
+
     jQuery(".new-patient-registration-container").on("click", "button.submit-new-patient", function(e) {
         e.preventDefault();
         saveForm();
     });
   });
-
-
-  jQuery("body").on("click", ".birth-history", function() {
-    var form = $("form.js-patient-create-form");
-      $.ajax({
-        url: form.attr("action"),
-        data: form.serialize(),
-        type: form.attr("method"),
-        dataType: 'json',
-        success: function (data) {
-          console.log(data)
-          if(data['form_is_valid']) {
-            jQuery("html,body").animate({"scrollTop":0},200);
-            jQuery(".new-patient-history-container").removeClass("hidden");
-            jQuery(".new-patient-registration-container").addClass("hidden");
-          } else {
-            console.log(2);
-          }
-        }
-    });
-  })

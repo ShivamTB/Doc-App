@@ -2,7 +2,7 @@ from django.shortcuts import render
 from django.http import HttpResponse
 from . import forms
 from .filters import PatientFilter
-from .models import Patient, Visit
+from .models import Patient, Visit, BirthHistory
 from django.template.loader import render_to_string
 from django.http import JsonResponse
 from django.shortcuts import get_object_or_404
@@ -93,6 +93,35 @@ def patient_delete(request, pk):
         )
     return JsonResponse(data)
 
+def save_history_form(request, form, template_name):
+    data = dict()
+
+    if form.is_valid():
+        form.save()
+        data['form_is_valid'] = True
+    else:
+        data['form_is_valid'] = False
+
+    context = {'form': form}
+    data['html_form'] = render_to_string(template_name, context, request=request)
+    return JsonResponse(data)
+
+def history_create(request):
+
+    if request.method == 'POST':
+        form = forms.History(request.POST)
+    else:
+        form = forms.History()
+    return save_history_form(request, form, 'first_app/includes/partial_history_create.html')
+
+def history_update(request, pk):
+    history = get_object_or_404(Visit, pk=pk)
+    if request.method == 'POST':
+        form = forms.History(request.POST, instance=history)
+    else:
+        form = forms.History(instance=history)
+    return save_history_form(request, form, 'first_app/includes/partial_history_update.html')
+
 def save_visit_form(request, form, template_name):
     data = dict()
 
@@ -143,6 +172,8 @@ def last_visit(pk, ppk):
         visit = get_object_or_404(Visit, pk=pk)
         if (visit.patient.pk == ppk):
             return pk
+
+
 
 def patient_fetch(request, pk):
     patient = get_object_or_404(Patient, pk=pk)

@@ -1,13 +1,61 @@
+.patient-info-container .patient-container {
+  padding: 15px;
+  background-color: #fff;
+  border: 1px solid #eaeaea; }
+
+.patient-info-container .patient-header {
+  padding-bottom: 10px; }
+
+.patient-info-container .patient-body {
+  padding-top: 15px;
+  border-top: 1px solid #eaeaea; }
+  .patient-info-container .patient-body .row-item {
+    margin-bottom: 15px; }
+    .patient-info-container .patient-body .row-item h4 {
+      margin: 0;
+      background-color: #f3fbfb;
+      font-size: 16px;
+      padding: 5px 10px;
+      border: 1px solid #eaeaea; }
+    .patient-info-container .patient-body .row-item .input-field-container {
+      min-height: 85px;
+      max-height: 85px;
+      overflow-y: scroll; }
+      .patient-info-container .patient-body .row-item .input-field-container input {
+        padding: 12px;
+        border-bottom: 1px solid #e8e8e8;
+        display: block;
+        width: 100%;
+        border: 0;
+        border-bottom: 1px solid #e8e8e8;
+        font-size: 14px;
+        transition: all 0.2s ease-in-out; }
+        .patient-info-container .patient-body .row-item .input-field-container input:focus {
+          border-color: #67A2FF;
+          outline: 0; }
+
 .patient-info-container p {
   color: #4b4b4b;
   line-height: 1.5; }
+  .patient-info-container p.subtitle {
+    font-size: 12px;
+    color: #808080;
+    letter-spacing: 0.5px; }
+  .patient-info-container p.value {
+    min-height: 24px; }
 
 .patient-info-container h4 {
   font-size: 18px;
-  color: #2b2b2b;
-  margin: 0 0 10px; }
-  .patient-info-container h4 span {
-    text-transform: capitalize; }
+  color: #2b2b2b; }
+  .patient-info-container h4 span.title {
+    text-transform: uppercase; }
+  .patient-info-container h4 span.action {
+    cursor: pointer;
+    font-size: 12px;
+    color: #4285f4;
+    text-transform: capitalize;
+    position: relative;
+    top: 4px; }
 
 .patient-info-container .action-container {
   margin: 50px 0 0 0;
@@ -47,6 +95,8 @@
 
 button {
   margin-top: 10px; }
+  button .button.green {
+    background-color: #5bafac; }
 
 .new-patient {
   padding: 10px 15px;

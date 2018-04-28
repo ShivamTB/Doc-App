@@ -1,17 +1,86 @@
 
 .patient-info-container {
 
+	.patient-container {
+		padding:15px;
+		background-color:#fff;
+		border:1px solid #eaeaea;
+	}
+
+	.patient-header {
+		padding-bottom:10px;
+	}
+
+	.patient-body {
+		padding-top:15px;
+		border-top: 1px solid #eaeaea;
+
+		.row-item {
+			margin-bottom:15px;
+			h4 {
+				margin:0;
+				background-color: #f3fbfb;
+				font-size: 16px;
+				padding: 5px 10px;
+				border: 1px solid #eaeaea;
+			}
+			.input-field-container {
+				min-height:85px;
+				max-height:85px;
+				overflow-y:scroll;
+
+				input {
+					padding:12px;
+					border-bottom:1px solid #e8e8e8;
+					display: block;
+					width: 100%;
+					border: 0;
+					border-bottom: 1px solid #e8e8e8;
+					font-size:14px;
+
+					transition:all 0.2s ease-in-out;
+					&:focus {
+						border-color:#67A2FF;
+						outline:0;
+					}
+				}
+			}
+		}
+	}
+
 	p {
 		color:#4b4b4b;
 		line-height:1.5;
+
+		&.subtitle {
+			font-size:12px;
+			color:#808080;
+			letter-spacing: 0.5px;
+		}
+
+		&.value {
+			min-height:24px;
+		}
 	}
+
 	h4 {
 		font-size:18px;
 		color:#2b2b2b;
-		margin:0 0 10px;
 
 		span {
-			text-transform:capitalize;
+
+			&.title {
+				text-transform:uppercase;
+			}
+			&.action {
+				cursor:pointer;
+				font-size:12px;
+				color:#4285f4;
+				text-transform:capitalize;
+				position: relative;
+   				top: 4px;
+			}
+
 		}
 	}
 
@@ -68,6 +137,13 @@
 
 button {
 	margin-top:10px;
+
+	.button {
+
+		&.green {
+			background-color:#5bafac;
+		}
+	}
 }
 
 .new-patient {
