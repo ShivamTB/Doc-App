@@ -102,8 +102,8 @@ $(function () {
 
    // Save Form from index.js
 
-    jQuery(".new-patient-registration-container").on("click", "button.submit-new-patient", function(e) {
-        e.preventDefault();
-        saveForm();
-    });
+    // jQuery(".new-patient-registration-container").on("click", "button.submit-new-patient", function(e) {
+    //     e.preventDefault();
+    //     saveForm();
+    // });
   });
